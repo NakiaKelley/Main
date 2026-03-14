@@ -21,11 +21,12 @@
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
-| Bacon Breakfast Taco w/ 2 oz Salsa | 5 | 5 | 15 | 25 | |
-| Sausage Breakfast Taco w/ 2 oz Salsa | 5 | 5 | 15 | 25 | |
+| Bacon Breakfast Taco w/ 2 oz Salsa | 5 | 5 | 15 | 25 | Weekly staple |
+| Sausage Breakfast Taco w/ 2 oz Salsa | 5 | 5 | 15 | 25 | Weekly staple |
+| Potato Breakfast Taco w/ 2 oz Salsa | 5 | 5 | 15 | 25 | Weekly staple |
 | Loaded Hash Brown Breakfast Bowl | 5 | 5 | 15 | 25 | Surplus hash browns |
 | Fruit Bowl | 0 | 3 | 0 | 3 | |
-| **BREAKFAST Subtotal** | **15** | **18** | **45** | **78** | |
+| **BREAKFAST Subtotal** | **20** | **23** | **60** | **103** | |
 
 ### BOXED LUNCHES — Salads
 
@@ -66,7 +67,7 @@
 
 ---
 
-| **GRAND TOTAL** | **31** | **47** | **57** | **135** |
+| **GRAND TOTAL** | **36** | **52** | **72** | **160** |
 
 ---
 
