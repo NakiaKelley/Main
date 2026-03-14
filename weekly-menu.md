@@ -8,10 +8,10 @@
 
 | Ingredient | Category | Notes / Planned Use |
 |------------|----------|---------------------|
-| Carrot Chips | Produce | Pickled Carrot Jars, Snack Cups |
-| Broccoli | Produce | Broccoli Cheddar Mac Bowl, Beef & Broccoli Bowl, Broccoli Crunch Salad |
+| Carrot Chips | Produce | Pickled Carrot Jars |
+| Broccoli | Produce | Beef & Broccoli Bowl, Broccoli Crunch Salad |
 | Dehydrated Hash Browns | Pantry | Loaded Hash Brown Breakfast Bowls |
-| Sweet Potatoes | Produce | Golden Hour Bowl, Harvest Bowl, Sweet Potato Wrap, Sweet Potato Pie Parfait |
+| Sweet Potatoes | Produce | Golden Hour Bowl, Harvest Bowl, Sweet Potato Wrap |
 
 ---
 
@@ -46,10 +46,9 @@
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
 | Beef & Broccoli Stir-Fry Bowl (Rice) | 2 | 4 | 0 | 6 | Surplus broccoli |
-| Broccoli Cheddar Mac Bowl | 2 | 4 | 0 | 6 | Surplus broccoli |
 | Golden Hour Sweet Potato Bowl | 2 | 4 | 0 | 6 | Surplus sweet potatoes |
 | Harvest Sweet Potato Bowl | 2 | 4 | 0 | 6 | Surplus sweet potatoes |
-| **LUNCH BOWLS Subtotal** | **8** | **16** | **0** | **24** | |
+| **LUNCH BOWLS Subtotal** | **6** | **12** | **0** | **18** | |
 
 ### LUNCH MISCELLANEOUS
 
@@ -57,19 +56,17 @@
 |------|:---:|:---:|:---:|:---:|-------|
 | Beef Empanada w/ 2 oz Chimichurri | 0 | 5 | 12 | 17 | |
 | Asian Ginger Pickled Carrot Jars | 6 | 6 | 0 | 12 | Surplus carrot chips |
-| Carrot Chip Snack Cup w/ Ranch | 3 | 3 | 6 | 12 | Surplus carrot chips |
-| **LUNCH MISCELLANEOUS Subtotal** | **9** | **14** | **18** | **41** | |
+| **LUNCH MISCELLANEOUS Subtotal** | **6** | **11** | **12** | **29** | |
 
 ### PARFAITS
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
-| Sweet Potato Pie Parfait | 2 | 3 | 0 | 5 | Surplus sweet potatoes |
-| **PARFAITS Subtotal** | **2** | **3** | **0** | **5** | |
+| **PARFAITS Subtotal** | **0** | **0** | **0** | **0** | |
 
 ---
 
-| **GRAND TOTAL** | **38** | **57** | **63** | **158** |
+| **GRAND TOTAL** | **31** | **47** | **57** | **135** |
 
 ---
 
@@ -77,10 +74,10 @@
 
 | Surplus Item | Menu Items Using It | # of Items |
 |-------------|---------------------|:---:|
-| Carrot Chips | Asian Ginger Pickled Carrot Jars, Carrot Chip Snack Cup w/ Ranch | 24 |
-| Broccoli | Beef & Broccoli Stir-Fry Bowl, Broccoli Cheddar Mac Bowl, Broccoli Crunch Salad | 17 |
+| Carrot Chips | Asian Ginger Pickled Carrot Jars | 12 |
+| Broccoli | Beef & Broccoli Stir-Fry Bowl, Broccoli Crunch Salad | 11 |
 | Dehydrated Hash Browns | Loaded Hash Brown Breakfast Bowl | 25 |
-| Sweet Potatoes | Golden Hour Sweet Potato Bowl, Harvest Sweet Potato Bowl, Roasted Sweet Potato & Black Bean Wrap, Sweet Potato Pie Parfait | 22 |
+| Sweet Potatoes | Golden Hour Sweet Potato Bowl, Harvest Sweet Potato Bowl, Roasted Sweet Potato & Black Bean Wrap | 17 |
 
 ## Distribution Schedule
 
