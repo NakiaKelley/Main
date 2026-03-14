@@ -33,14 +33,18 @@
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
 | Broccoli Crunch Salad | 2 | 3 | 0 | 5 | Surplus broccoli |
-| **BOXED LUNCHES Subtotal** | **2** | **3** | **0** | **5** | |
+| Southwest Chicken Salad | 2 | 3 | 0 | 5 | |
+| Garden Side Salad w/ Ranch | 2 | 2 | 0 | 4 | |
+| **BOXED LUNCHES Subtotal** | **6** | **8** | **0** | **14** | |
 
 ### WRAPS & SANDWICHES
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
 | Roasted Sweet Potato & Black Bean Wrap | 2 | 3 | 0 | 5 | Surplus sweet potatoes |
-| **WRAPS & SANDWICHES Subtotal** | **2** | **3** | **0** | **5** | |
+| Chicken Caesar Wrap | 2 | 3 | 0 | 5 | |
+| Turkey & Swiss on Sourdough | 2 | 2 | 0 | 4 | |
+| **WRAPS & SANDWICHES Subtotal** | **6** | **8** | **0** | **14** | |
 
 ### LUNCH BOWLS
 
@@ -49,7 +53,8 @@
 | Beef & Broccoli Stir-Fry Bowl (Rice) | 2 | 4 | 0 | 6 | Surplus broccoli |
 | Golden Hour Sweet Potato Bowl | 2 | 4 | 0 | 6 | Surplus sweet potatoes |
 | Harvest Sweet Potato Bowl | 2 | 4 | 0 | 6 | Surplus sweet potatoes |
-| **LUNCH BOWLS Subtotal** | **6** | **12** | **0** | **18** | |
+| Mac & Cheese Bowl | 2 | 4 | 0 | 6 | |
+| **LUNCH BOWLS Subtotal** | **8** | **16** | **0** | **24** | |
 
 ### LUNCH MISCELLANEOUS
 
@@ -57,17 +62,20 @@
 |------|:---:|:---:|:---:|:---:|-------|
 | Beef Empanada w/ 2 oz Chimichurri | 0 | 5 | 12 | 17 | |
 | Asian Ginger Pickled Carrot Jars | 6 | 6 | 0 | 12 | Surplus carrot chips |
-| **LUNCH MISCELLANEOUS Subtotal** | **6** | **11** | **12** | **29** | |
+| Chips & Salsa Cup | 3 | 3 | 6 | 12 | |
+| **LUNCH MISCELLANEOUS Subtotal** | **9** | **14** | **18** | **41** | |
 
 ### PARFAITS
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
-| **PARFAITS Subtotal** | **0** | **0** | **0** | **0** | |
+| Blueberry Granola Parfait | 2 | 3 | 0 | 5 | |
+| Sweet Potato Cinnamon Parfait | 1 | 3 | 0 | 4 | Surplus sweet potatoes |
+| **PARFAITS Subtotal** | **3** | **6** | **0** | **9** | |
 
 ---
 
-| **GRAND TOTAL** | **36** | **52** | **72** | **160** |
+| **GRAND TOTAL** | **52** | **75** | **78** | **205** |
 
 ---
 
@@ -78,7 +86,7 @@
 | Carrot Chips | Asian Ginger Pickled Carrot Jars | 12 |
 | Broccoli | Beef & Broccoli Stir-Fry Bowl, Broccoli Crunch Salad | 11 |
 | Dehydrated Hash Browns | Loaded Hash Brown Breakfast Bowl | 25 |
-| Sweet Potatoes | Golden Hour Sweet Potato Bowl, Harvest Sweet Potato Bowl, Roasted Sweet Potato & Black Bean Wrap | 17 |
+| Sweet Potatoes | Golden Hour Bowl, Harvest Bowl, Sweet Potato & Black Bean Wrap, Sweet Potato Cinnamon Parfait | 21 |
 
 ## Distribution Schedule
 
