@@ -8,20 +8,14 @@
 
 | Ingredient | Category | Notes / Planned Use |
 |------------|----------|---------------------|
-| Chicken Breast (cooked) | Protein | Chicken Caesar Wraps, Bowls |
-| Black Beans (canned) | Pantry | Southwest Bowls, Breakfast Tacos |
-| Bell Peppers (mixed) | Produce | Fajita Bowls, Wraps |
-| Cilantro | Produce | Bowls, Salsa, Garnish |
-| Greek Yogurt | Dairy | Parfaits |
-| Apples | Produce | Fruit Bowls, Snacking |
+| Carrot Chips | Produce | Pickled Carrot Jars, Snack Cups |
+| Broccoli | Produce | Broccoli Cheddar Mac Bowl, Beef & Broccoli Bowl, Broccoli Crunch Salad |
+| Dehydrated Hash Browns | Pantry | Loaded Hash Brown Breakfast Bowls |
+| Sweet Potatoes | Produce | Golden Hour Bowl, Harvest Bowl, Sweet Potato Wrap, Sweet Potato Pie Parfait |
 
 ---
 
 ## Production Menu — By Location & Delivery Day
-
-|  | **MONDAY PM** | **MONDAY PM** | **FRIDAY AM** | | |
-|--|---------------|---------------|---------------|--|--|
-| **Menu Item** | **Conroe** | **New Caney** | **Conroe** | **Week Total** | **Notes** |
 
 ### BREAKFAST
 
@@ -29,53 +23,64 @@
 |------|:---:|:---:|:---:|:---:|-------|
 | Bacon Breakfast Taco w/ 2 oz Salsa | 5 | 5 | 15 | 25 | |
 | Sausage Breakfast Taco w/ 2 oz Salsa | 5 | 5 | 15 | 25 | |
-| Bean & Cheese Breakfast Taco w/ 2 oz Salsa | 5 | 5 | 15 | 25 | Surplus black beans |
-| Fruit Bowl | 0 | 3 | 0 | 3 | Surplus apples |
+| Loaded Hash Brown Breakfast Bowl | 5 | 5 | 15 | 25 | Surplus hash browns |
+| Fruit Bowl | 0 | 3 | 0 | 3 | |
 | **BREAKFAST Subtotal** | **15** | **18** | **45** | **78** | |
 
 ### BOXED LUNCHES — Salads
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
-| Chicken Caesar Salad | 2 | 3 | 0 | 5 | Surplus chicken |
+| Broccoli Crunch Salad | 2 | 3 | 0 | 5 | Surplus broccoli |
 | **BOXED LUNCHES Subtotal** | **2** | **3** | **0** | **5** | |
 
 ### WRAPS & SANDWICHES
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
-| Chicken Caesar Wrap | 2 | 3 | 0 | 5 | Surplus chicken |
+| Roasted Sweet Potato & Black Bean Wrap | 2 | 3 | 0 | 5 | Surplus sweet potatoes |
 | **WRAPS & SANDWICHES Subtotal** | **2** | **3** | **0** | **5** | |
 
 ### LUNCH BOWLS
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
-| Chicken Fajita Bowl (Rice) | 2 | 4 | 0 | 6 | Surplus chicken & peppers |
-| Southwest Black Bean & Rice Bowl | 2 | 4 | 0 | 6 | Surplus black beans & peppers |
-| Cilantro Lime Chicken Bowl (Rice) | 1 | 4 | 0 | 5 | Surplus chicken & cilantro |
-| **LUNCH BOWLS Subtotal** | **5** | **12** | **0** | **17** | |
+| Beef & Broccoli Stir-Fry Bowl (Rice) | 2 | 4 | 0 | 6 | Surplus broccoli |
+| Broccoli Cheddar Mac Bowl | 2 | 4 | 0 | 6 | Surplus broccoli |
+| Golden Hour Sweet Potato Bowl | 2 | 4 | 0 | 6 | Surplus sweet potatoes |
+| Harvest Sweet Potato Bowl | 2 | 4 | 0 | 6 | Surplus sweet potatoes |
+| **LUNCH BOWLS Subtotal** | **8** | **16** | **0** | **24** | |
 
 ### LUNCH MISCELLANEOUS
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
 | Beef Empanada w/ 2 oz Chimichurri | 0 | 5 | 12 | 17 | |
-| Asian Ginger Pickled Carrot Jars | 4 | 4 | 0 | 8 | |
-| **LUNCH MISCELLANEOUS Subtotal** | **4** | **9** | **12** | **25** | |
+| Asian Ginger Pickled Carrot Jars | 6 | 6 | 0 | 12 | Surplus carrot chips |
+| Carrot Chip Snack Cup w/ Ranch | 3 | 3 | 6 | 12 | Surplus carrot chips |
+| **LUNCH MISCELLANEOUS Subtotal** | **9** | **14** | **18** | **41** | |
 
 ### PARFAITS
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
-| Apple Cinnamon Granola Parfait | 2 | 3 | 0 | 5 | Surplus apples & yogurt |
+| Sweet Potato Pie Parfait | 2 | 3 | 0 | 5 | Surplus sweet potatoes |
 | **PARFAITS Subtotal** | **2** | **3** | **0** | **5** | |
 
 ---
 
-| **GRAND TOTAL** | **30** | **48** | **57** | **135** | |
+| **GRAND TOTAL** | **38** | **57** | **63** | **158** |
 
 ---
+
+## Surplus Utilization Summary
+
+| Surplus Item | Menu Items Using It | # of Items |
+|-------------|---------------------|:---:|
+| Carrot Chips | Asian Ginger Pickled Carrot Jars, Carrot Chip Snack Cup w/ Ranch | 24 |
+| Broccoli | Beef & Broccoli Stir-Fry Bowl, Broccoli Cheddar Mac Bowl, Broccoli Crunch Salad | 17 |
+| Dehydrated Hash Browns | Loaded Hash Brown Breakfast Bowl | 25 |
+| Sweet Potatoes | Golden Hour Sweet Potato Bowl, Harvest Sweet Potato Bowl, Roasted Sweet Potato & Black Bean Wrap, Sweet Potato Pie Parfait | 22 |
 
 ## Distribution Schedule
 
