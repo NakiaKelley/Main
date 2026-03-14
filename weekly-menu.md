@@ -1,169 +1,107 @@
 # Grab & Go Weekly Menu — March 16–22, 2026
 
----
+## Commissary Production Schedule
 
-## Monday
-
-### Breakfast
-- Bacon, egg & cheese croissant
-- Overnight oats with berries and honey
-- Fresh fruit cup
-- Coffee, juice, bottled water
-
-### Lunch
-- Grilled chicken Caesar wrap
-- Turkey club sandwich on sourdough
-- Garden side salad
-- Chips, cookie, bottled drinks
-
-### Dinner
-- Beef stir-fry bowl with broccoli and rice
-- Veggie spring rolls (2 pc)
-- Bottled water, iced tea
-
-### Snacks & Beverages
-- Granola bars, mixed nuts, string cheese
+All items are produced and assembled in the commissary kitchen on **Sunday (March 15)** and **Monday (March 16)**, then distributed to cafe locations and wholesale accounts for the week.
 
 ---
 
-## Tuesday
+## Production Day 1 — Sunday, March 15
 
-### Breakfast
-- Sausage, egg & cheddar breakfast burrito
-- Greek yogurt parfait with granola
-- Banana muffin
-- Coffee, juice, bottled water
+### Breakfast Items
+| Item | Packaging | Shelf Life |
+|------|-----------|------------|
+| Bacon, egg & cheese croissant | Wrapped | 5 days |
+| Sausage, egg & cheddar breakfast burrito | Wrapped | 5 days |
+| Overnight oats with berries and honey | 8 oz cup, sealed | 5 days |
+| Greek yogurt parfait with granola | 12 oz cup, sealed | 4 days |
+| Blueberry muffin | Clamshell | 5 days |
+| Banana nut muffin | Clamshell | 5 days |
+| Cinnamon roll | Clamshell | 5 days |
+| Fresh fruit cup | 8 oz cup, sealed | 3 days |
 
-### Lunch
-- Turkey and Swiss wrap with side salad
-- Italian sub on hoagie roll
-- Pasta salad cup
-- Chips, brownie, bottled drinks
-
-### Dinner
-- Baked salmon with roasted asparagus and quinoa
-- Dinner roll
-- Bottled water, iced tea
-
-### Snacks & Beverages
-- Trail mix, apple slices with caramel, cheese & crackers
-
----
-
-## Wednesday
-
-### Breakfast
-- Ham, egg & pepper jack croissant
-- Blueberry pancake bites (6 pc)
-- Fresh fruit cup
-- Coffee, juice, bottled water
-
-### Lunch
-- Tomato basil soup with grilled cheese sandwich
-- Chicken salad croissant
-- Side Caesar salad
-- Chips, cookie, bottled drinks
-
-### Dinner
-- Chicken fajita bowl with peppers, onions, and rice
-- Tortilla chips with salsa
-- Bottled water, iced tea
-
-### Snacks & Beverages
-- Hummus & pretzel pack, yogurt cup, rice crispy treat
+### Snacks & Sides
+| Item | Packaging | Shelf Life |
+|------|-----------|------------|
+| Granola bars | Individually wrapped | 14 days |
+| Mixed nuts | Snack pouch | 14 days |
+| Trail mix | Snack pouch | 14 days |
+| String cheese | Individually wrapped | 7 days |
+| Cheese & cracker pack | Snack box | 7 days |
+| Hummus & pretzel pack | Snack box | 5 days |
+| Hummus & veggie cup | 8 oz cup, sealed | 4 days |
+| Apple slices with caramel | 6 oz cup, sealed | 3 days |
+| Apple slices with peanut butter | 6 oz cup, sealed | 3 days |
+| Protein bar | Individually wrapped | 14 days |
+| Rice crispy treat | Wrapped | 7 days |
 
 ---
 
-## Thursday
+## Production Day 2 — Monday, March 16
 
-### Breakfast
-- Veggie egg white wrap
-- Banana nut muffin
-- Greek yogurt parfait with granola
-- Coffee, juice, bottled water
+### Lunch Items
+| Item | Packaging | Shelf Life |
+|------|-----------|------------|
+| Grilled chicken Caesar wrap | Wrapped | 4 days |
+| Turkey club sandwich on sourdough | Wrapped | 4 days |
+| Turkey and Swiss wrap | Wrapped | 4 days |
+| Italian sub on hoagie roll | Wrapped | 4 days |
+| Chicken salad croissant | Wrapped | 3 days |
+| Roast beef and cheddar on rye | Wrapped | 4 days |
+| Cuban sandwich on pressed roll | Wrapped | 4 days |
+| BBQ chicken sandwich | Wrapped | 4 days |
+| Pulled pork sliders (2 pc) | Clamshell | 3 days |
+| Mediterranean grain bowl with hummus and feta | Sealed bowl | 4 days |
+| Cobb salad with ranch dressing | Sealed bowl | 3 days |
+| Chicken Caesar salad | Sealed bowl | 3 days |
+| Garden side salad | Sealed bowl | 3 days |
+| Side Caesar salad | Sealed bowl | 3 days |
 
-### Lunch
-- Mediterranean grain bowl with hummus and feta
-- Roast beef and cheddar on rye
-- Cucumber tomato salad cup
-- Chips, lemon bar, bottled drinks
+### Lunch Sides
+| Item | Packaging | Shelf Life |
+|------|-----------|------------|
+| Pasta salad cup | 8 oz cup, sealed | 5 days |
+| Cucumber tomato salad cup | 8 oz cup, sealed | 4 days |
+| Macaroni salad cup | 8 oz cup, sealed | 5 days |
+| Potato salad cup | 8 oz cup, sealed | 5 days |
+| Coleslaw cup | 8 oz cup, sealed | 5 days |
+| Cookie (assorted) | Wrapped | 5 days |
+| Brownie | Wrapped | 5 days |
+| Lemon bar | Wrapped | 5 days |
 
-### Dinner
-- Spaghetti Bolognese with garlic bread
-- Side garden salad
-- Bottled water, iced tea
-
-### Snacks & Beverages
-- Protein bar, fresh fruit cup, cheese & crackers
-
----
-
-## Friday
-
-### Breakfast
-- Bacon, egg & cheese bagel
-- Smoothie cup (mango, banana, spinach)
-- Cinnamon roll
-- Coffee, juice, bottled water
-
-### Lunch
-- BBQ chicken sandwich with coleslaw
-- Fish tacos with mango salsa (2 pc)
-- Macaroni salad cup
-- Chips, cookie, bottled drinks
-
-### Dinner
-- Shrimp tacos with cilantro lime rice
-- Black bean side cup
-- Bottled water, iced tea
-
-### Snacks & Beverages
-- Mixed nuts, fruit & cheese plate, granola bar
+### Dinner Items
+| Item | Packaging | Shelf Life |
+|------|-----------|------------|
+| Beef stir-fry bowl with broccoli and rice | Sealed bowl | 4 days |
+| Baked salmon with roasted asparagus and quinoa | Sealed bowl | 3 days |
+| Chicken fajita bowl with peppers, onions, and rice | Sealed bowl | 4 days |
+| Spaghetti Bolognese with garlic bread | Sealed bowl | 4 days |
+| Shrimp tacos with cilantro lime rice | Clamshell | 3 days |
+| Fish tacos with mango salsa (2 pc) | Clamshell | 3 days |
+| Herb-roasted chicken thighs with mashed potatoes and green beans | Sealed bowl | 4 days |
+| Lemon garlic butter pasta with shrimp | Sealed bowl | 3 days |
 
 ---
 
-## Saturday
+## Distribution Schedule
 
-### Breakfast
-- French toast sticks with maple dip (6 pc)
-- Sausage, egg & cheese biscuit
-- Fresh strawberry cup
-- Coffee, juice, bottled water
+Items are distributed from the commissary to all locations following production:
 
-### Lunch
-- Cobb salad with ranch dressing
-- Cuban sandwich on pressed roll
-- Potato salad cup
-- Chips, brownie, bottled drinks
-
-### Dinner
-- Herb-roasted chicken thighs with mashed potatoes and green beans
-- Dinner roll
-- Bottled water, iced tea
-
-### Snacks & Beverages
-- Trail mix, string cheese, apple slices with peanut butter
+| Day | Activity |
+|-----|----------|
+| **Sunday** | Production Day 1 — Breakfast items, snacks & sides |
+| **Monday** | Production Day 2 — Lunch, dinner items, salads & sides |
+| **Tuesday** | Distribution to cafes and wholesale accounts |
+| **Wednesday** | Mid-week restock as needed |
+| **Thursday** | Regular service |
+| **Friday** | Regular service |
+| **Saturday** | Final service day before next production cycle |
 
 ---
 
-## Sunday
+## Notes
 
-### Breakfast
-- Veggie omelette bites (4 pc) with hash brown patty
-- Blueberry muffin
-- Fresh fruit cup
-- Coffee, juice, bottled water
-
-### Lunch
-- Pulled pork sliders (2 pc) with pickles
-- Chicken Caesar salad
-- Coleslaw cup
-- Chips, cookie, bottled drinks
-
-### Dinner
-- Lemon garlic butter pasta with shrimp
-- Side Caesar salad
-- Bottled water, iced tea
-
-### Snacks & Beverages
-- Hummus & veggie cup, protein bar, cheese & crackers
+- All items are labeled with production date, best-by date, ingredients, and allergen info
+- Items with 3-day shelf life should be prioritized for early-week distribution
+- Wholesale accounts should place orders by Saturday for the following week's production
+- Cafes receive standard pars; adjustments can be requested by end of day Friday
