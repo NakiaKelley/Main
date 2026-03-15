@@ -61,10 +61,10 @@
 
 | Item | Conroe (Mon) | New Caney (Mon) | Conroe (Fri) | Week Total | Notes |
 |------|:---:|:---:|:---:|:---:|-------|
-| Beef Empanada w/ 2 oz Chimichurri | 0 | 5 | 12 | 17 | |
+| Beef Empanada w/ 2 oz Chimichurri | 0 | 5 | 15 | 20 | Weekly staple — Conroe Fri |
 | Asian Ginger Pickled Carrot Jars | 6 | 6 | 0 | 12 | Surplus carrot chips |
 | Chips & Salsa Cup | 3 | 3 | 6 | 12 | |
-| **LUNCH MISCELLANEOUS Subtotal** | **9** | **14** | **18** | **41** | |
+| **LUNCH MISCELLANEOUS Subtotal** | **9** | **14** | **21** | **44** | |
 
 ### PARFAITS
 
@@ -76,7 +76,7 @@
 
 ---
 
-| **GRAND TOTAL** | **52** | **78** | **78** | **208** |
+| **GRAND TOTAL** | **52** | **78** | **81** | **211** |
 
 ---
 
