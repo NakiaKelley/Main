@@ -215,86 +215,205 @@ This is one of the most replicable formats for Citizens Coffee using surplus ing
 
 ---
 
-## 5. Erewhon Market — Fresh Foods Case Study
+## 5. Erewhon Market — Complete Fresh Foods Case Study
 
-*Erewhon is the premier upscale organic grocery chain in Los Angeles, known for celebrity collaborations, extreme-premium pricing, and trend-setting health food. While their price points are far above what Citizens Coffee targets, their product innovation and category mix is highly instructive.*
+*Erewhon is the premier upscale organic grocery chain in Los Angeles (11 locations, 3 more opening). Founded in the 1960s, the name is an anagram of "nowhere" from Samuel Butler's utopian novel. While their price points are far above what Citizens Coffee targets, their product innovation, commissary model, and category mix are highly instructive for any grab-and-go operation.*
 
-### 5.1 Philosophy & Positioning
-- Organic, non-GMO, no seed oils, no refined sugars, no artificial ingredients
-- Celebrity partnerships drive viral products (Hailey Bieber Strawberry Glaze Skin Smoothie was a cultural moment)
-- In-house tonic bar, juice bar, hot bar, and prepared foods kitchen
-- Target customer: health-conscious, high-income, trend-forward Los Angeles consumers
+### 5.1 Business Model & Commissary Operation
 
-### 5.2 Smoothie Program (Their Signature Category)
-Erewhon's smoothie collaborations are their most famous products, typically $19-$23 each:
+- **Scale:** ~$1,800–$2,500 sales per square foot (industry average: $500). ~2,500 employees.
+- **Prepared foods = 40% of revenue** — This is not a grocery store with a deli. The prepared foods program IS the business.
+- **65,000-sq-ft central commissary in Vernon, CA** (within a 110,000-sq-ft building). ~350 employees. Five times larger than previous facility. Deliveries arrive at stores by 5 AM daily.
+- **Commissary produces:** All hot bar items, cold-pressed juices (fresh daily, never pasteurized), house-made almond milk (small batches, activated nuts), probiotic tonics, soups/bone broths (simmered 24-36 hours), baked goods, sushi, pasta (dedicated pasta room), sprouted nuts.
+- **Facility includes:** Bakery, juice room, pasta room, dry storage, production areas, R&D kitchen, training kitchen, six 300-gallon steam-jacketed kettles, sophisticated oven line.
+- **Sourcing standards:** 100% organic, non-GMO, no seed oils, no refined sugars, no preservatives. Banned: yeast extract (unless organic), corn starch (unless Non-GMO), maltodextrin, "natural flavors" (unless source stated). Grass-fed/cage-free proteins, wild-caught sustainable seafood.
+- **Certified Organic Retailer and Certified B-Corp.** Donates 25+ tons of food annually.
+- **Ships nationwide** to all 50 states plus Australia, Canada, and UK.
+- **Membership:** ~60,000 members. Cafe tier $100/yr (1 free drink/month, 10% off). Full tier $200/yr.
 
-| Smoothie | Celebrity/Brand Collab | Key Ingredients |
+### 5.2 Smoothie / Tonic Bar Program (Their Signature Category)
+
+Erewhon's Tonic Bar is the centerpiece of each store. 21+ permanent smoothies plus rotating monthly celebrity collaborations. Smoothies range **$13–$27**.
+
+**Core Smoothie Menu:**
+
+| Smoothie | Price | Key Ingredients |
 |---|---|---|
-| Strawberry Glaze Skin | Hailey Bieber | Strawberry, dates, avocado, collagen, hyaluronic acid |
-| Coconut Cloud | Wildly Organic | Coconut, vanilla, MCT oil, ashwagandha |
-| Activated | Bella Hadid / Kin Euphorics | Adaptogens, mushroom blend, cacao |
-| Acai Royale | Various | Acai, pitaya, blue spirulina, nut butter |
-| Green Machine | House | Kale, spinach, banana, spirulina, protein |
-| Matcha Latte | Various | Ceremonial grade matcha, oat milk, vanilla |
+| Hailey Bieber Strawberry Glaze Skin | $19 | Almond milk, strawberries, avocado, dates, vanilla collagen, sea moss, coconut cream |
+| Amino Acid Trip | $16 | Yuzu magnesium, oat milk, banana, pineapple, coconut cream, blueberry glaze |
+| Turmeric Crush | $13 | Carrot juice, OJ, ginger, turmeric, mango, pineapple, camu camu, beet juice |
+| Gary Brecka Perfect Amino | $19 | Perfect Amino powder, hydrogen water, coconut milk, berries, cauliflower rice, avocado |
+| Mint Chip Energizer | $17 | Almond milk, maca, mesquite, barley grass, greens, cacao nibs, hemp seeds, peppermint |
+| Malibu Mango | $19 | Coconut water, vanilla collagen, mango, pineapple, banana, OJ, lion's mane, coconut cream |
+| Strawberry Probiotic | $22 | Strawberries, almond milk, coconut kefir, collagen, tocos |
+| Activated (coffee) | $19 | Cold brew, almond milk, coconut meat, dates, Dandy Blend, maca, cacao, collagen, MCT oil, ghee |
+| Maca Bomb | $19 | Almond milk, hemp seeds, maca, mesquite, lucuma, cacao nibs, goji berries, dates |
+| Matchacado | $17 | Almond milk, banana, avocado, honey, collagen, ceremonial matcha, ashwagandha, pine pollen |
+| Coconut Cloud | $18 | Almond milk, pineapple, banana, avocado, almond butter, collagen, blue spirulina |
+| Goddess | $19 | Almond milk, barley grass, chlorella, spirulina, hemp seeds, lucuma, maca, pumpkin seeds |
+| Dr. Paul's Raw Animal-Based | $19 | Kefir, colostrum, freeze-dried beef organs, blueberries, banana, honey |
+| Post Workout | $15 | Blueberries, vanilla collagen, chia seeds, lucuma, coconut water, maca |
+| Royal Defense | $13 | Apple juice, bee pollen, banana, strawberries, blueberries |
+| Brainstorm | $13 | Almond milk, walnuts, ginkgo, Udo's oil, dates, banana |
+| Body Ecology | $13 | Avocado, green apple, celery, parsley, lemon, cayenne, sea salt |
+| Coconut Dream | $13 | Coconut water, almond milk, dates, coconut meat, banana, kale, cinnamon |
 
-**Key insight for Citizens Coffee:** While $19 smoothies aren't the model, the *concept* of rotating signature drinks with story-driven ingredients is applicable at any price point. Consider a "Surplus Spotlight Smoothie" that changes weekly based on rescued ingredients.
+**Celebrity Collaborations** (monthly limited-edition, brands pay ~$30-40K to participate):
+- **Revenue example:** Bieber smoothie sells ~40,000/month across locations = ~$760K/month from one SKU
+- **2024 collabs:** Sofia Richie Grainge, Kendall Jenner, Winnie Harlow, The Kid LAROI, Kourtney Kardashian, Sabrina Carpenter ($23)
+- **2025 collabs:** Kacey Musgraves, Nara Smith, Barbie (first non-human collab), Tyla, Travis Scott, Heidi Klum, KATSEYE
+- **Brand collabs:** Vacation Sunscreen, UGG (Tazz Tonic), Arrae (gut health), Origins (fungi-infused green juice)
 
-### 5.3 Prepared Foods Categories
+### 5.3 Hot Bar (Staff-Served, Daily Rotation)
 
-**Salads:**
-- Kale Caesar with Organic Chicken
-- Goddess Greens (tahini-based dressing, roasted vegetables)
-- Mediterranean Quinoa Salad
-- Asian Sesame Salad with Crispy Tofu
-- Superfood Salad (multiple grains, seeds, roasted vegetables)
-- Raw Rainbow Salad
+| Item | Price/lb | Notes |
+|---|---|---|
+| Korean BBQ Short Ribs | $40/lb | Top-rated |
+| Miso Black Cod | $40/lb | Most expensive tier |
+| Organic Carne Asada | $32/lb | |
+| Grassfed Beef with Chimichurri | ~$28-32/lb | |
+| Coconut Turmeric Chicken Tenders | $26/lb | Brown rice, coconut, turmeric, flash-fried in rice bran oil |
+| Orange Chicken | ~$26-28/lb | |
+| Buffalo Cauliflower (vegan, GF) | $20/lb | Cult following, thin batter |
+| Brown Rice Balls | $20/lb | Onions, spinach, vegan cheese, herbs |
+| Mighty Greens | $19/lb | Broccoli, quinoa, coconut oil, hemp seeds |
+| Green Beans with Almonds | ~$16-18/lb | |
+| Japanese Sweet Potatoes | $14.50/lb | Roasted, "tastes like dessert" |
+| Organic Jasmine Rice | $11/lb | Cheapest hot bar item |
+| GF Mac n Cheese | varies | |
+| Chana Masala | varies | |
+| Chicken & Vegetable Soup | varies | |
 
-**Bowls:**
-- Turmeric Rice Bowl with Grass-Fed Steak
-- Salmon Poke Bowl
-- Macro Bowl (balanced protein/carb/fat)
-- Buddha Bowl (plant-based, grain + roasted veg + tahini)
-- Chicken Shawarma Bowl
-- Black Bean & Sweet Potato Bowl
+**Typical hot bar spend:** $30-$40 per plate. Combo plates: Chicken $30, Vegan $25.25, Fish $39.50, Beef $40.75.
 
-**Sandwiches & Wraps:**
-- Turkey Avocado on Sourdough
-- Grilled Chicken Caesar Wrap
-- Veggie Collard Wrap (collard green as wrap, grain-free)
-- Tuna Salad on Multigrain
-- Caprese on Ciabatta
+### 5.4 Prepared Salads & Bowls
 
-**Grab-and-Go Snacks:**
-- Overnight Oats (multiple flavors)
-- Chia Pudding Cups
-- Energy Bites / Protein Balls
-- Organic Fruit Cups
-- Veggie Crudité with Hummus
-- Bone Broth Cups
-- Collagen Protein Bites
-- Raw Dessert Bars (dates, nuts, cacao)
+| Item | Price | Description |
+|---|---|---|
+| Chicken Caesar Salad | ~$18-22/lb | Herb-seasoned chicken, romaine, aged Parmigiano, anchovy dressing |
+| Vegan Caesar Salad | ~$18-22/lb | Romaine, kale, chickpea tempeh, creamy cashew dressing |
+| Kale & White Bean Salad | ~$18-22/lb | Cult favorite, many copycat recipes online |
+| Kale Salad w/ Cranberries & Almonds | ~$18-22/lb | Tender kale, cranberries, almonds, lemon, olive oil |
+| Kale & Yam Salad | sold by lb | |
+| Asian Chicken Salad | varies | |
+| Brussels Sprouts Salad | varies | Brussels sprouts, kale, almonds, Dijon, lemon |
+| Poke Bowl | varies | Wild tuna/salmon or crab, organic veggies, sriracha |
 
-**Hot Bar:**
-- Rotisserie Chicken (organic, pasture-raised)
-- Roasted Vegetables (seasonal)
-- Grain Pilafs
-- Soups (bone broth-based)
-- Braised Meats
+### 5.5 Sandwiches, Wraps & Burritos
 
-**Juice Bar / Tonic Bar:**
-- Cold-pressed juices ($12-16)
-- Wellness shots (ginger, turmeric, wheatgrass, $5-8)
-- Adaptogenic lattes (reishi, chaga, lion's mane)
-- Kombucha on tap
-- Fresh coconut water
+**Pre-made signatures:**
+- Organic Rotisserie Chicken Sandwich — garlic aioli, fresh arugula, artisan bread
+- Spicy Sushi Sandwich (~$21) — wild tuna, salmon & crab between crispy rice patties, sriracha-sesame
+- Organic Chicken Caesar Wrap
+- Organic Chicken Burrito
 
-### 5.4 What Citizens Coffee Can Learn from Erewhon
+**Build-your-own options:**
+- **Bread:** Raw Wrap, Paleo Bread, GF Bread, GF Tortilla, Sourdough, Ciabatta, Collard Green Wrap ($2-2.50)
+- **Protein:** Grilled Chicken, Curry Chicken Salad, Wild Salmon (+$5), Grass-Fed Steak (+$3.75), Prosciutto (+$2.50), Tuna Salad, Veggie Patty, Avocado
+- **Cheese:** Vegan Chipotle Cashew (+$2.50), Vegan Mozz, Fresh Mozz (+$1.25), Jack, Feta, Cheddar, Goat Cheese, Provolone
 
-1. **Category breadth matters** — Erewhon covers breakfast, lunch, snacks, drinks, and dessert with grab-and-go. Citizens Coffee can expand beyond meals into snack cups, energy bites, and wellness shots.
-2. **Storytelling sells** — Every Erewhon product has a narrative (organic sourcing, celebrity collab, functional ingredients). Citizens Coffee's food rescue story is equally compelling and authentic.
-3. **Visual presentation** — Clear containers, colorful layering, and Instagram-worthy appearance drive purchases. This is achievable at any price point.
-4. **Functional ingredients** — Adaptogens, collagen, turmeric, and other functional ingredients command premium pricing. Consider adding a few functional items to the lineup.
-5. **Rotating specials** — Erewhon constantly introduces new collaborations and limited-time items. Citizens Coffee naturally does this with surplus-driven weekly menus.
+### 5.6 Breakfast
+
+| Item | Description |
+|---|---|
+| Bacon & Egg Breakfast Burrito | Scrambled eggs, bacon, cheddar, hash browns, spinach wheat tortilla |
+| Steak & Egg Breakfast Burrito | Scrambled eggs, steak, cheddar |
+| Chorizo & Egg Breakfast Burrito | Cage-free eggs, chorizo, aged cheddar |
+| Turkey Bacon Breakfast Burrito | |
+| Keto Breakfast Burrito | Customizable with vegan cheese and buffalo sauce |
+| Overnight Oats | Coconut yogurt, oats, almond milk, matcha, maple syrup |
+| Chia Puddings | Various flavors, grab-and-go |
+| Fruit Parfaits | |
+| Acai Bowl with Protein & Granola | Acai, berries, banana, A2 whey protein, house granola |
+| Acai Super Mousse | Protein-packed acai, almond butter, chia, goji, cacao nibs |
+
+### 5.7 Soups & Bone Broths
+
+All 100% organic, stocks simmered 24-36 hours. 30-day shelf life refrigerated.
+
+| Item | Price | Ingredients |
+|---|---|---|
+| Chicken Bone Broth (32 oz) | ~$24 | Chicken bones, onion, carrot, celery, parsley, garlic, sea salt |
+| Beef Bone Broth | ~$24 | Beef bones, carrot, onion, celery, ACV, parsley, garlic |
+| Chicken Noodle Soup | varies | Rich stock, tender chicken, vegetables, pasta, parsley |
+| Chicken Vegetable Soup | varies | Chicken, stock, onions, carrots, celery, cabbage, zucchini, broccoli |
+| Chicken Matzo Ball Soup | varies | |
+
+### 5.8 Cold-Pressed Juices & Wellness Shots
+
+All fresh-pressed daily, never pasteurized. ~165 items in this category.
+
+| Juice | Ingredients |
+|---|---|
+| The Big Green | Kale, spinach, cucumber, apple |
+| Clean Greens | Cucumber, romaine, spinach, mint, lemon |
+| Hardcore Greens | Celery, cucumber, romaine, ginger |
+| High Vibe | Apples, pineapple, beets, lemon, rose water |
+| Liquid Gold (~$20) | Lemon juice, ginger, turmeric, cayenne |
+| Wellness Shot | Carrot, lemon, ginger, garlic |
+| Fungi-Infused Green Juice (Origins collab) | Chaga, reishi, tremella + apple, cucumber, spinach, sea moss |
+
+### 5.9 Bakery & Desserts
+
+| Item | Price | Notes |
+|---|---|---|
+| Coconut Chaga Brownies (GF) | ~$9.95 | Made at commissary |
+| Raw Vegan Brownie | $9.95 | Sweetened with maple syrup |
+| Raw Chocolate Mousse | $7.50 | Avocado, coconut oil, cacao, maple syrup |
+| Oat Milk Chocolate Chip Cookies | $5.95 | Vegan butter, flax seeds, cinnamon |
+| Berry Good Cake Slice | varies | Seasonal berries, vanilla |
+| Coffee Cake Slice | varies | Walnuts, pecans, cinnamon streusel |
+| GF Keto Blueberry Muffins | varies | Allulose, monk fruit sweeteners |
+| Vegan Coffee Cake (Giselle's) | $11.99 | Oat flour, applesauce, coconut sugar |
+
+### 5.10 Snacks, Sides & Condiments
+
+| Item | Notes |
+|---|---|
+| Raw Energy Balls | Dates, nuts, various flavors |
+| Artisanal Sea Salt Popcorn | Coconut oil and sea salt |
+| Vegan Granola | Organic oats, seeds, maple and agave |
+| Sprouted Nuts | Made in commissary |
+| Chili Lime Almonds | $15/jar |
+| House Hot Sauce | $12.50 — tangy, vinegar-based with cayenne |
+| Calabrian Chili Hot Sauce | |
+| Chili Crunch Oil | Umami-forward |
+| Erewhon Burger Sauce | Used on sliders |
+
+### 5.11 Sushi & Pizza
+
+**Sushi:** Spicy Sushi Sandwich (~$21), Sushi Boxes with bluefin tuna ($premium), Tofu Sushi Rolls (~$13.99), Poke Bowls, full rolls menu.
+
+**Pizza:** Hand-stretched organic sourdough, stone/wood-fire baked. Crust options include cauliflower GF (+$2) and broccoli GF (+$2). BBQ Chicken, Veggie, Mushroom, build-your-own.
+
+### 5.12 Price Point Summary
+
+| Category | Typical Price Range |
+|---|---|
+| Smoothies | $13–$27 |
+| Cold-pressed juices | $10–$20 |
+| Wellness shots | $4–$8 |
+| Hot bar items | $11–$40/lb (most $20–$30/lb) |
+| Combo plates | $25–$41 |
+| Prepared salads | $18–$22/lb |
+| Breakfast burritos | $12–$18 |
+| Bone broths (32 oz) | ~$24 |
+| Bakery items | $6–$12/piece |
+| Typical plate total | $30–$40 |
+
+**For comparison:** Whole Foods hot bar = $11.99/lb flat; Sprouts = $8-12/lb; Safeway = ~$9.99/lb.
+
+### 5.13 What Citizens Coffee Can Learn from Erewhon
+
+1. **The commissary model is the engine** — Erewhon's 65K-sq-ft facility enables consistent quality across 11+ locations. Citizens Coffee already operates this model at smaller scale.
+2. **40% of revenue from prepared foods** — Erewhon proves prepared foods can be the core business, not a side offering.
+3. **Vertical integration** — House-made milks, juices, broths, sauces, and baked goods give margin control and brand differentiation. Citizens Coffee can develop signature house-made items.
+4. **Storytelling sells** — Every Erewhon product has a narrative. Citizens Coffee's food rescue story is equally compelling and more authentic.
+5. **Category breadth matters** — Erewhon covers breakfast, lunch, snacks, drinks, desserts, and condiments. Citizens Coffee can expand beyond meals into snack cups, energy bites, bone broth, and wellness shots.
+6. **Visual presentation** — Clear containers, colorful layering, Instagram-worthy appearance. Achievable at any price point.
+7. **Rotating specials create urgency** — Monthly collaborations and seasonal items drive repeat visits. Citizens Coffee naturally does this with surplus-driven weekly menus.
+8. **Functional ingredients** — Adaptogens, collagen, turmeric, lion's mane, and bone broth command premium pricing. Consider adding a few functional items to the lineup.
+9. **The collard green wrap** — A grain-free, low-carb wrap option that's distinctive and health-forward. Simple to implement.
 
 ---
 
