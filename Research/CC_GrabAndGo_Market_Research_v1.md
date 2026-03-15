@@ -65,47 +65,67 @@ The upcycled food movement has gone mainstream. The Upcycled Certified program g
 ## 3. Major Healthy Grab-and-Go Brands
 
 ### 3.1 Farmer's Fridge
-- **Scale:** 3,000+ vending machine locations in 20 states (airports, hospitals, offices, universities)
-- **Projected:** 10 million meals sold in 2025; $100M+ raised
-- **Format:** Mason-jar-style clear containers, machine-dispensed
-- **Menu:** Salads ($9.99), bowls ($7.99), wraps, breakfast items, snacks
-- **Shelf life:** ~1 week refrigerated
+- **Scale:** 3,000+ vending machine locations in 20 states (airports, hospitals, offices, universities, Target, Walmart)
+- **Projected:** 10 million meals sold in 2025; 70% annual growth since inception; $100M+ raised
+- **Format:** Mason-jar-style clear containers, smart fridges that auto-lock expired items
+- **Menu:** Salads ($9.99), bowls ($7.99), wraps, breakfast items, snacks. Bestsellers include High Protein Medi Chicken Bowl, Southwest Salad with Chicken, Pesto Pasta Bowl, Apple Pecan Salad, and a CPK BBQ Chicken Chopped Salad collaboration
+- **Pricing:** $5–$14 per item (average ~$8); airport locations run higher
+- **Shelf life:** ~1 week refrigerated; all items freshly prepared daily
 - **Surplus model:** Unsold meals donated to Feeding America
-- **Key insight:** Proves that fresh grab-and-go in clear containers at ~$8-10 price points works at massive scale
+- **Key insight:** Proves fresh grab-and-go in clear containers at ~$8-10 works at massive scale
 
 ### 3.2 Daily Harvest
 - **Format:** Frozen, plant-based meals delivered to consumers
-- **Products:** Smoothies, harvest bowls, flatbreads, soups, bites, lattes, oat bowls
-- **Philosophy:** Whole fruits and vegetables, no preservatives, organic ingredients
-- **Key insight:** Subscription model with single-serve frozen items
+- **Products:** Smoothies, Protein Oat Bowls, Functional Elixirs, Boosters
+- **Philosophy:** 95%+ organic ingredients; no gluten, dairy, gums, or artificial additives
+- **Update:** Acquired by Chobani in May 2025; introduced GLP-1-friendly product lines and Noom partnership
+- **Pricing:** $6.99–$7.75 per cup
+- **Key insight:** Subscription model with single-serve frozen items; GLP-1 compatibility is a growth driver
 
-### 3.3 Snap Kitchen
-- **Format:** Refrigerated prepared meals, physical retail locations + delivery
-- **Products:** Macro-balanced bowls, proteins, sides, snacks
-- **Philosophy:** Dietitian-designed, calorie/macro-labeled, fitness-oriented
-- **Key insight:** Nutrition-forward labeling drives purchases for health-conscious consumers
+### 3.3 Snap Kitchen (Texas-Based)
+- **Format:** Austin-founded (2010); 100% gluten-free chilled (not frozen) meals
+- **Products:** Quinoa chorizo breakfast tacos, creamy mushroom fusilli, chili-glazed Atlantic salmon; keto/paleo/Whole30/vegan options
+- **Distribution:** Partners with Whole Foods (35 meals and beverages in-store across TX, LA, OK, AR)
+- **History:** Went through bankruptcy in 2020, rebuilt with physical stores and delivery
+- **Key insight:** Texas-based brand proving that health-forward prepared meals sell in the state
 
-### 3.4 Territory Foods
-- **Format:** Fresh chef-prepared meals, delivered
-- **Products:** Bowls, plates, breakfast items tailored to dietary preferences
-- **Philosophy:** Local chef network, customizable dietary filters (keto, paleo, Whole30, etc.)
+### 3.4 Gardencup
+- **Format:** Salads shipped in clear, resealable cups (shaker-style) with separate dressing
+- **Menu:** Southwest Fajita Chicken Salad, Chicken Bacon Cobb, Caesar with Grilled Chicken, Mediterranean, TexMex Burrito Bowl, plus soups, snack cups, cold-pressed juices
+- **Shelf life:** ~1 week after delivery; made fresh same day
+- **Pricing:** Starting at $11.99/serving
+- **Key insight:** The shaker-cup salad format is a proven innovation for grab-and-go
 
-### 3.5 Simply Good Jars
+### 3.5 CookUnity
+- **Format:** Chef-prepared meal delivery with rotating roster of professional chefs
+- **Products:** Filters for vegan, under-600-calorie, GLP-1 balanced meals
+- **Pricing:** Starting at $11.09/serving
+- **Key insight:** Consistently ranked among top prepared meal services for 2026
+
+### 3.6 Clean Eatz Kitchen
+- **Format:** Entrées at ~$11 each, 25–40g protein per meal
+- **Key insight:** Competitive with home cooking on cost; cheaper than fast-casual delivery
+
+### 3.7 Simply Good Jars
 - **Format:** Fresh layered salads in reusable mason jars
 - **Backed by:** Shark Tank investment from Mark Cuban and Lori Greiner
 - **Key insight:** The jar format provides natural tamper evidence, visual appeal, and batch production efficiency
 
-### 3.6 Key Pricing Benchmarks
+### 3.8 Salad and Go — Cautionary Tale
+- **Format:** Drive-thru healthy fast food; salads (~$6), wraps (~$5), breakfast burritos (~$3)
+- **Update:** Exited Texas entirely in January 2026 after flawed expansion (closed all 32 TX/OK stores); now operates 70 stores in AZ and NV only
+- **Key lesson:** Commissary-dependent models are risky when scaling across distant geographies. Citizens Coffee's local distribution model avoids this pitfall.
 
-| Item Type | Price Range | Notes |
+### 3.9 Key Pricing Benchmarks
+
+| Tier | Price Range | Examples |
 |---|---|---|
-| Grab-and-go salads | $8.99 – $14.99 | Premium stores (Erewhon) at high end |
-| Grain bowls | $7.99 – $12.99 | |
-| Wraps/sandwiches | $7.99 – $11.99 | |
-| Breakfast items | $4.99 – $8.99 | Overnight oats, parfaits, egg cups |
-| Snack packs | $3.99 – $7.99 | Protein boxes, veggie + dip cups |
-| Smoothies/juices | $7.99 – $19.00 | Erewhon smoothies at extreme high end |
-| Energy bites (pack) | $3.99 – $6.99 | |
+| **Budget** | $3–$6 | Salad and Go, breakfast burritos, c-store grab-and-go |
+| **Mid-Range** | $6–$10 | Farmer's Fridge (avg $8), Daily Harvest ($7/cup), Starbucks protein boxes ($6.77–$7.89) |
+| **Premium Prepared** | $10–$15 | CookUnity ($11.09), Gardencup ($11.99), Clean Eatz ($11), Snap Kitchen |
+| **Ultra-Premium** | $15–$26+/lb | Erewhon (coconut turmeric chicken tenders at $26/lb) |
+
+**The $6–$10 sweet spot** is where most successful grab-and-go items land. Affordability is the #1 driver of food purchasing decisions per the 2025 Nutrition Survey. The $10–$12 range works for premium items that deliver on nutrition without luxury markup.
 
 ---
 
@@ -115,15 +135,33 @@ The upcycled food movement has gone mainstream. The Upcycled Certified program g
 
 **Protein-forward everything** — The #1 trend. Driven by GLP-1 medication adoption (Ozempic, Wegovy), 45%+ of consumers prioritize protein. Products like Chipotle's High Protein Cup (32g protein/4oz) and Subway's Protein Pockets ($3.99, 20g+ protein) are bestsellers.
 
-**Fiber is the new protein** — Whole Foods named fiber a top 2026 trend. 64% of Americans are intentionally consuming more fiber. Expect to see fiber content prominently labeled on packaging.
+**"Fibermaxxing" is the breakout term for 2026** — Over 52% of consumers express interest. Whole Foods named fiber a top 2026 trend. 64% of Americans are intentionally consuming more fiber. The global food fiber market is expected to grow from $8.8B (2025) to $19.4B (2034). Fiber is being called "the new protein." Breakfast bowls combining whole grains, protein, and veggies are the easiest entry point.
+
+**GLP-1 medications are reshaping the food industry** — 23% of US households now have consumers on GLP-1 medications. By 2030, 35% of food/beverage purchases will be made by GLP-1 users. This drives demand for high-protein, portion-controlled, low-sugar meals. Restaurants from Shake Shack to Smoothie King have launched GLP-1-specific menus.
 
 **Snacking replaces meals** — 58% of diners say grabbing a quick snack is a key reason for restaurant visits. Snacking is the fastest-growing restaurant daypart. 63% of breakfast eaters aged 18-34 prefer snacking over a full breakfast.
 
-**GLP-1-influenced formats** — Protein-dense, smaller portion-sized, nutrient-rich items designed for consumers on weight management medications who eat less but need higher nutritional density.
-
 **Sweet-savory combinations** — Miso caramel, tahini desserts, balsamic-cheese pairings are replacing 2025's "sweet-heat" trend.
 
-**Global flavors in portable formats** — Middle Eastern (harissa, za'atar, sumac), Korean-inspired, Mediterranean, and Southeast Asian flavors in grab-and-go formats.
+**Global flavors in portable formats** — Middle Eastern (harissa, za'atar, sumac), Korean-inspired, Mediterranean, Southeast Asian, and Indian regional flavors in grab-and-go formats.
+
+**"Neuroflavor"** — Flavor experiences designed to modulate mood, cognition, and energy. Products formulated for calm, clarity, and emotional support span beverages, chocolates, and snacks.
+
+### 4.2 Hero Ingredients for 2026
+
+| Ingredient Category | Specifics |
+|---|---|
+| **Anti-inflammatory** | Turmeric, ginger, cinnamon, black seed oil, fenugreek |
+| **Adaptogens** | Ashwagandha, rhodiola, holy basil, lion's mane (2x more popular than ashwagandha) |
+| **Functional Mushrooms** | Lion's mane, reishi, chaga — $33.7B market in 2025, projected $62.1B by 2032 |
+| **Fermented Foods** | Kimchi, sauerkraut (25% YoY sales growth), kombucha, kefir, probiotic beverages |
+| **Beans & Legumes** | Affordable, shelf-stable, high fiber + protein; appearing in smoothies, salads, snacks |
+| **Ancient Grains** | Barley, farro, quinoa, millet — especially in bowl formats |
+| **Plant-Forward Proteins** | Tempeh, walnuts, mushrooms, lentils (whole food over ultra-processed) |
+| **Global Spices** | Curry leaves, asafoetida, gochujang — Indian regional cuisine is a major rising trend |
+| **Prebiotics & Gut Health** | Prebiotic fiber drinks, probiotic beverages with ginger, turmeric, elderberry |
+
+The global functional food/beverage market is worth $364B and growing at 10%+ CAGR, projected to reach $793B by 2032.
 
 ### 4.2 Consumer Behavior Shifts
 
@@ -145,6 +183,35 @@ The upcycled food movement has gone mainstream. The Upcycled Certified program g
 | Heat-and-eat bowls | **Growing** | Microwave-safe packaging, extended shelf life |
 | Veggie + dip cups | **Growing** | Simple, healthy, low cost |
 | Grain bowls | **Dominant** | The #1 grab-and-go lunch format nationally |
+| GLP-1-friendly meals | **Breakout** | High-protein, portion-controlled, labeled for calorie/macro counts |
+
+### 4.5 Protein Snack Boxes / Bento-Style (Detailed)
+
+This is one of the most replicable formats for Citizens Coffee using surplus ingredients:
+
+**Starbucks Protein Boxes** (the category benchmark, still a top seller in 2026):
+- Eggs & Cheddar ($7.89, 460 cal): eggs, cheese, fruit, muesli bread
+- Cheese Trio ($6.77, 520 cal): three cheeses, crackers, fruit — "snack board" feel
+- Cheddar & Uncured Salami ($7.09, 470 cal): meat-and-cheese style
+- Eggs & Gouda (530 cal): most filling option
+- Cheese & Fruit: light option with grapes, crackers, cheese
+
+**Hillshire Snacking** (Tyson Foods):
+- Small Plates: Genoa Salami + White Cheddar + Toasted Rounds; 16g protein; single-serve
+- New 2025: Dips and Spreads — pepperoni with cream cheese dip + toasted rounds
+
+**Columbus Craft Meats** (Hormel):
+- Charcuterie Snack Trays: "A perfect charcuterie board for one"
+- New January 2026: Columbus Entertaining Tray ($15.49 at Target, Hy-Vee)
+
+**Key insight for Citizens Coffee:** The Starbucks model ($6.77–$7.89) is highly replicable with surplus/donated ingredients. Bento-style boxes with 4-5 components (protein + cheese + fruit + crackers/bread + nuts or spread) are easy to assemble, visually appealing, and command good margins.
+
+### 4.6 Plant-Based Grab-and-Go Trends
+
+- **Clean label over processed**: Consumers moving away from ultra-processed meat alternatives toward whole-food plant proteins (beans, lentils, tempeh, mushrooms, nuts)
+- **Flexitarian-driven**: 46% of global consumers identify as flexitarian; health is 5.3x more important than environmental concerns when choosing plant-based
+- **Plant-based eggs booming**: Just Egg grew 5x faster YoY; market projected $16B by 2032
+- **Best-selling plant-based grab-and-go**: Bobo's oat bars, Fillo's Walking Tamales, UNLIMEAT Bulgogi Jumukbap, Buddha bowls, chilled vegan burritos
 
 ---
 
@@ -349,11 +416,32 @@ H-E-B's in-store upcycling is the closest commercial model in Texas to what Citi
 - Examples: fresh guacamole from ripe avocados, croutons from day-old bread
 - 87 million pounds diverted from landfill in 2025
 
-### 8.3 Texas Legal Protections
+### 8.3 Texas-Based Healthy Meal Companies (Competitors & Inspiration)
+
+| Company | Location | Highlights |
+|---|---|---|
+| **Snap Kitchen** | Austin | 100% gluten-free; in Whole Foods across TX; keto, paleo, Whole30 options |
+| **Front Porch Pantry** | Statewide TX delivery | Precooked meals using locally sourced ingredients |
+| **The Meal Proz** | Austin/Central TX | No seed oils (olive oil only); rotating weekly menus; high-protein |
+| **Zedric's** | San Antonio | Fresh (never frozen) meal prep; keto, paleo, balanced, gluten-friendly |
+| **Fit Foodie** | San Antonio | Weekly rotating high-protein menu; chef-prepared, heat-and-eat |
+| **Nosh Simple** | Houston | 20+ cuisines and dietary options; free delivery |
+| **Mindful Meals TX** | Texas | Plant-based meal delivery, catering, and private chef |
+| **ProMeals** | Multi-city TX | High-protein, low-calorie, keto-friendly delivery |
+| **Second Servings** | Houston | Only prepared/perishable food rescue org in Houston; reaches 250K+ people annually |
+
+### 8.4 Texas-Specific Lessons
+
+- **Salad and Go's exit** from Texas (closed all 32 TX/OK stores Jan 2026) shows the difficulty of scaling commissary-dependent healthy food across Texas's vast geography. Citizens Coffee's local distribution model avoids this pitfall.
+- **Foxtrot Market** reopened 2 Dallas locations after its 2024 collapse — demand for curated grab-and-go exists in Texas but must be carefully managed.
+- **Texas consumers respond well to Tex-Mex and Southwest flavors** in healthy formats (Snap Kitchen's quinoa chorizo breakfast tacos, Gardencup's TexMex Burrito Bowl).
+- **Convenience store foodservice** is a $677,897/store revenue category in Texas, with 60% of consumers now considering buying meals at c-stores and health-forward c-stores (like TXB — Texas Born Stores) adding fresh salads alongside traditional items.
+
+### 8.5 Texas Legal Protections
 
 Texas law protects food donors from civil and criminal liability for donating wholesome food — an important enabler for the surplus-to-meal model.
 
-### 8.4 Texas Food Insecurity Context
+### 8.6 Texas Food Insecurity Context
 
 - 18.4% food insecurity rate
 - 1 in 7 Texans experience food insecurity
@@ -426,21 +514,62 @@ Focus: Tier 2 completion and Tier 3 evaluation based on Phase 1/2 results and su
 
 ## Sources
 
+### Industry Reports & Trend Publications
 - Technomic 2026 US Foodservice Trends
 - QSR Magazine 2025 Drive-Thru Report
 - Datassential 2026 Foodservice Industry Trends
 - Food Business News — Trends Reshaping Prepared Foods in 2026
 - IFT Top 10 Food Trends 2026
-- Upcycled Food Association — 2025 Industry Report
-- Farmer's Fridge — Company Data
-- NRDC — DC Central Kitchen Case Study
-- Rethink Food — Sustainable Community Kitchen
-- H-E-B Food Recovery Program
-- Feeding Texas — Surplus Agricultural Products Grant
+- Penn State Extension — Food Trends 2026
+- Lincoln Land College — 2026 Nutrition Trends
+- Olive Magazine — Ultimate Food Trends Report 2026
+- Food Navigator — Top 5 Functional Ingredients 2026
+- Prepared Foods — Immunity-Driven Product Revolution 2026
 - Food Safety Magazine — Fresh Prepared Foods 2025
 - Supermarket News — Grab-and-Go Retailer Survey 2025
 - Mintel — Breakfast Consumer Behavior 2025
 - Whole Foods Market — 2026 Food Trends Report
+- CStore Decisions — 2026 Foodservice Report
+- Food Ingredients First — GLP-1 Friendly Menus 2026
+
+### Brands & Companies
+- Farmer's Fridge (farmersfridge.com) — Chicago Tribune Jan 2026 Success Story
+- Daily Harvest (daily-harvest.com) — Chobani Acquisition 2025
+- Snap Kitchen (snapkitchen.com) — Austin, TX
+- Gardencup (gardencup.com)
+- CookUnity (cookunity.com)
+- Clean Eatz Kitchen (cleaneatzkitchen.com)
+- Simply Good Jars — Shark Tank
+- Starbucks Protein Boxes 2026
+- Hillshire Snacking (hillshiresnacking.com)
+- Columbus Craft Meats — New Entertaining Tray Jan 2026
+- Salad and Go — Texas Exit (QSR Magazine Jan 2026)
+
+### Food Rescue & Upcycled Food
+- Upcycled Food Association — 2025 Industry Report
+- NRDC — DC Central Kitchen Case Study
+- Rethink Food — Sustainable Community Kitchen (rethinkfood.org)
+- 412 Food Rescue — Good Food Project (Pittsburgh)
+- La Soupe — Rescue Kitchen Network (Cincinnati)
+- Matriark Foods, Rubies in the Rubble, Imperfect Foods/Misfits Market
+- Food Tank — 12 Upcycled Food Companies
+- Prepared Foods — Upcycled Food Movement 2025
+- CNBC — What is Upcycled Food (April 2025)
+
+### Texas-Specific
+- H-E-B Food Recovery Program (ourtexasourfuture.com)
+- Feeding Texas — Surplus Agricultural Products Grant
+- Second Servings Houston (secondservingshouston.org)
+- Keep Austin Fed (keepaustinfed.org)
+- Houston Food Bank, San Antonio Food Bank, Tarrant Area Food Bank, Central Texas Food Bank
+- Front Porch Pantry, Zedric's, Fit Foodie, The Meal Proz, Nosh Simple, ProMeals
+- Foxtrot Market Reopening (WFAA Dallas)
+
+### Packaging
+- KP Films — Top 5 Packaging Trends 2026
+- Packaging Strategies — Trends Shaping 2026
+- Food Navigator USA — Packaging Trends 2025/2026
+- Lacerta Packaging — Grab-and-Go Market Report
 
 ---
 
