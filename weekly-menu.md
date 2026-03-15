@@ -98,7 +98,7 @@
 ## Production Notes
 
 - All items produced using cold assembly methods per HACCP protocols.
-- Shelf life: Salads & Wraps 3 days | Lunch Bowls 5 days | Parfaits 3 days.
+- Shelf life: Salads & Wraps 3 days | Lunch Bowls 4 days | Parfaits 3 days.
 - Menu driven by available surplus inventory — items change weekly.
 - Refer to individual Recipe Cards and SOPs for production procedures.
 - Monday PM delivery to Conroe & New Caney. Friday AM delivery to Conroe only.
