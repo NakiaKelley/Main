@@ -54,7 +54,8 @@
 | Golden Hour Sweet Potato Bowl | 2 | 4 | 0 | 6 | Surplus sweet potatoes |
 | Harvest Sweet Potato Bowl | 2 | 4 | 0 | 6 | Surplus sweet potatoes |
 | Mac & Cheese Bowl | 2 | 4 | 0 | 6 | |
-| **LUNCH BOWLS Subtotal** | **8** | **16** | **0** | **24** | |
+| Spaghetti & Meatballs w/ Tomato Basil Sauce | 0 | 3 | 0 | 3 | |
+| **LUNCH BOWLS Subtotal** | **8** | **19** | **0** | **27** | |
 
 ### LUNCH MISCELLANEOUS
 
@@ -75,7 +76,7 @@
 
 ---
 
-| **GRAND TOTAL** | **52** | **75** | **78** | **205** |
+| **GRAND TOTAL** | **52** | **78** | **78** | **208** |
 
 ---
 
