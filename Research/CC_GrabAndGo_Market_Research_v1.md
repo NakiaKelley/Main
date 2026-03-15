@@ -264,52 +264,106 @@ Erewhon's Tonic Bar is the centerpiece of each store. 21+ permanent smoothies pl
 - **2025 collabs:** Kacey Musgraves, Nara Smith, Barbie (first non-human collab), Tyla, Travis Scott, Heidi Klum, KATSEYE
 - **Brand collabs:** Vacation Sunscreen, UGG (Tazz Tonic), Arrae (gut health), Origins (fungi-infused green juice)
 
-### 5.3 Hot Bar (Staff-Served, Daily Rotation)
+### 5.3 Hot Bar (Staff-Served, Daily Rotation — ~35-39 items at any time)
+
+**Proteins:**
 
 | Item | Price/lb | Notes |
 |---|---|---|
-| Korean BBQ Short Ribs | $40/lb | Top-rated |
+| Korean BBQ Short Ribs | $40/lb | Top-rated, thin-sliced, sweet-savory marinade |
 | Miso Black Cod | $40/lb | Most expensive tier |
+| Grilled Salmon | ~$35-40/lb | Wild-caught |
 | Organic Carne Asada | $32/lb | |
-| Grassfed Beef with Chimichurri | ~$28-32/lb | |
+| Grassfed Beef with Chimichurri | ~$28-32/lb | Tender sliced beef with herb chimichurri |
+| Beef Burgundy | ~$28-32/lb | |
 | Coconut Turmeric Chicken Tenders | $26/lb | Brown rice, coconut, turmeric, flash-fried in rice bran oil |
 | Orange Chicken | ~$26-28/lb | |
+| General Sal's Chicken | ~$26-28/lb | Erewhon's General Tso's variant |
+| Rotisserie Chicken | varies | Served with mixed vegetables and mashed potatoes |
+| Chicken Pot Pie | varies | Flaky crust, chicken, peas, carrots filling |
+| Gruyere Burger Slider | ~$9/each | Sautéed onions, Gruyere, arugula, burger sauce |
+
+**Vegan / Vegetable Sides:**
+
+| Item | Price/lb | Notes |
+|---|---|---|
 | Buffalo Cauliflower (vegan, GF) | $20/lb | Cult following, thin batter |
+| Kung Pao Cauliflower | ~$20/lb | Deep-fried cauliflower, spicy-sweet glaze |
 | Brown Rice Balls | $20/lb | Onions, spinach, vegan cheese, herbs |
 | Mighty Greens | $19/lb | Broccoli, quinoa, coconut oil, hemp seeds |
-| Green Beans with Almonds | ~$16-18/lb | |
+| Green Beans with Almonds | ~$16-18/lb | Crisp-tender, slivered almonds |
+| Wood-Fired Roasted Mushrooms | varies | Charred, smoky, hint of heat (seasonal) |
 | Japanese Sweet Potatoes | $14.50/lb | Roasted, "tastes like dessert" |
+| Sweet Potato Taquitos | varies | |
+| Roasted Carrot Pepitas Pesto | varies | |
+| Green Rice | varies | Coconutty, zesty |
+| Cilantro Rice | varies | |
 | Organic Jasmine Rice | $11/lb | Cheapest hot bar item |
-| GF Mac n Cheese | varies | |
+| GF Mac n Cheese | varies | Gouda, cheddar, jack cheese over GF noodles (~$37/tray) |
+| Black Beans | ~$7.50 | Soupy, well-seasoned |
+| Mashed Potatoes | varies | |
 | Chana Masala | varies | |
 | Chicken & Vegetable Soup | varies | |
 
-**Typical hot bar spend:** $30-$40 per plate. Combo plates: Chicken $30, Vegan $25.25, Fish $39.50, Beef $40.75.
+**Typical hot bar spend:** $30-$40 per plate. Combo plates: Chicken $30, Vegan $25.25, Fish $39.50, Beef $40.75. Mix & Match Family Meal option also available.
 
-### 5.4 Prepared Salads & Bowls
+### 5.4 Prepared Salads, Bowls & Deli Salads
+
+**Packaged Grab-and-Go Salads (Erewhon lists 13+ house-made packaged salads):**
 
 | Item | Price | Description |
 |---|---|---|
-| Chicken Caesar Salad | ~$18-22/lb | Herb-seasoned chicken, romaine, aged Parmigiano, anchovy dressing |
+| Chicken Caesar Salad | ~$18-22/lb | Herb-seasoned chicken, romaine, aged Parmigiano, house-made anchovy dressing |
 | Vegan Caesar Salad | ~$18-22/lb | Romaine, kale, chickpea tempeh, creamy cashew dressing |
-| Kale & White Bean Salad | ~$18-22/lb | Cult favorite, many copycat recipes online |
-| Kale Salad w/ Cranberries & Almonds | ~$18-22/lb | Tender kale, cranberries, almonds, lemon, olive oil |
-| Kale & Yam Salad | sold by lb | |
-| Asian Chicken Salad | varies | |
-| Brussels Sprouts Salad | varies | Brussels sprouts, kale, almonds, Dijon, lemon |
+| Kale & White Bean Salad | ~$22/lb | Massaged kale, white beans, avocado, pumpkin/hemp/sunflower seeds, lemony maple dressing. Cult favorite, many copycat recipes online |
+| Kale Salad w/ Cranberries & Almonds | ~$18-22/lb | Tender kale, cranberries, almonds, lemon & olive oil |
+| Three Green Citrus Salad | ~$18-22/lb | Romaine, kale, spinach, fresh oranges, avocado, white balsamic dressing. Seasonal variation includes grapefruit, radicchio, sunflower seeds, lemon-shallot vinaigrette ("Summer Citrus Salad"). Viral copycat recipes |
+| Cucumber Avocado Salad | ~$18-22/lb | Persian cucumbers, radicchio, red onion, parsley, cherry tomatoes, avocado, lemony sumac dressing. Viral on TikTok |
+| Chicken Chop Salad | ~$18-22/lb | Tender chicken, fresh greens, feta, olives, zesty dressing. Mediterranean-inspired |
+| Antioxidant Salad | ~$18-22/lb | Kale, arugula, blueberries, walnuts, hemp seeds, EVOO lemon dressing |
+| Detox Salad Bowl | ~$18-22/lb | Red cabbage, kale, brussels sprouts, carrots, almonds, zesty ginger dressing. Vegan, GF |
+| Macrobiotic Salad | ~$18-22/lb | Brown rice, black beans, fermented veggies, tahini dressing. Vegan, GF |
+| Asian Chicken Salad | ~$18-22/lb | Sesame-crusted chicken, crisp greens, GF sesame sticks, miso-ginger dressing |
+| Shaved Brussels Sprouts Salad | ~$18-22/lb | Thinly sliced brussels sprouts, Pecorino Romano, toasted pine nuts, lemon |
+| Cabbage Slaw | ~$18-22/lb | Purple cabbage, scallion, cilantro, EVOO, rice vinegar, lemon juice, coconut aminos, sea salt |
+| Kelp Noodle Salad w/ Sesame-Miso | ~$15 | Mineral-rich kelp noodles, crisp veggies, savory sesame-miso dressing |
+| Ponzu Salmon Noodle Salad | varies | Pan-seared salmon, wheat noodles, pickled veggies, zesty ponzu dressing |
+| Wild Salmon Salad | varies | Wild sockeye salmon, black beans, brown rice, fresh veggies. GF |
+| Salmon Sweet Potato Detox Bowl | varies | Faroe Island salmon, roasted veggies, kale, brussels sprouts, ginger-honey-mustard dressing. GF |
 | Poke Bowl | varies | Wild tuna/salmon or crab, organic veggies, sriracha |
+| Poke Nacho Bowl (GF) | varies | Wild tuna/salmon on crispy chips, avocado, truffle-sriracha sauce |
+
+**Deli Salads & Spreads (tub/prepack — used as sandwich fillings or standalone):**
+
+| Item | Price | Description |
+|---|---|---|
+| Organic Chicken Salad | varies | Tender chicken, crisp celery, aromatic dill, avocado oil mayo. GF |
+| Lexi's Chicken Salad | varies | Tender chicken, house-made avocado oil mayo, celery, shallots |
+| Curry Chicken Salad | varies | Chicken, Granny Smith apples, raisins, aromatic curry spices |
+| Egg Salad | varies | Cage-free eggs, crisp veggies, avocado oil mayo, dill |
+| Wild Albacore Tuna Salad | varies | Pole-caught American tuna, avocado oil mayo, celery, red onion |
 
 ### 5.5 Sandwiches, Wraps & Burritos
 
-**Pre-made signatures:**
+**Pre-made sandwiches:**
 - Organic Rotisserie Chicken Sandwich — garlic aioli, fresh arugula, artisan bread
 - Spicy Sushi Sandwich (~$21) — wild tuna, salmon & crab between crispy rice patties, sriracha-sesame
-- Organic Chicken Caesar Wrap
-- Organic Chicken Burrito
+- Chicken Salad Sandwich — chicken breast, avocado oil mayo, celery, dill on French country bread
+- Egg Salad Sandwich — organic eggs, soy-free mayo on French bread
+- Grass-Fed Roast Beef Sandwich — grass-fed beef, provolone, caramelized onions, horseradish aioli on artisan bread
+
+**Pre-made wraps (~13 varieties):**
+- Organic Chicken Caesar Wrap (~$16.50) — chicken, romaine, aged Parmesan in spinach wheat tortilla
+- MadWrap / Collard Green Turkey Wrap (~$16) — turkey, avocado, kale, cannellini beans, hummus, pumpkin/sunflower seeds in collard leaf
+- Falafel Wrap with Tahini — house-made falafel (garbanzo beans, red quinoa, fresh herbs) in spinach tortilla
+- Tuna Tabbouleh Wrap — sustainably caught tuna, organic quinoa in whole wheat spinach tortilla
+
+**Pre-made burritos:**
+- Rotisserie Chicken Burrito — rotisserie chicken, avocado, brown rice, jack cheese, cilantro in spinach tortilla
 
 **Build-your-own options:**
-- **Bread:** Raw Wrap, Paleo Bread, GF Bread, GF Tortilla, Sourdough, Ciabatta, Collard Green Wrap ($2-2.50)
-- **Protein:** Grilled Chicken, Curry Chicken Salad, Wild Salmon (+$5), Grass-Fed Steak (+$3.75), Prosciutto (+$2.50), Tuna Salad, Veggie Patty, Avocado
+- **Bread:** Raw Wrap, Paleo Bread, GF Bread, GF Tortilla, Whole Wheat, Spinach Wheat Tortilla, Sourdough, French Country, Ciabatta, Olive, Collard Green Wrap ($2-2.50)
+- **Protein:** Grilled Chicken, Curry Chicken Salad, Wild Salmon (+$5), Grass-Fed Steak (+$3.75), Prosciutto (+$2.50), Roast Beef (+$2.50), Mediterranean Tuna Salad, Albacore Tuna Salad, Veggie Patty, Avocado
 - **Cheese:** Vegan Chipotle Cashew (+$2.50), Vegan Mozz, Fresh Mozz (+$1.25), Jack, Feta, Cheddar, Goat Cheese, Provolone
 
 ### 5.6 Breakfast
@@ -321,7 +375,9 @@ Erewhon's Tonic Bar is the centerpiece of each store. 21+ permanent smoothies pl
 | Chorizo & Egg Breakfast Burrito | Cage-free eggs, chorizo, aged cheddar |
 | Turkey Bacon Breakfast Burrito | |
 | Keto Breakfast Burrito | Customizable with vegan cheese and buffalo sauce |
-| Overnight Oats | Coconut yogurt, oats, almond milk, matcha, maple syrup |
+| Matcha Overnight Oats (~$10.25) | Ceremonial matcha, coconut yogurt, chia seeds, goji berries, oats, almond milk |
+| Chocolate Overnight Oats | Cocoa, sprouted almonds, chia seeds, coconut yogurt |
+| Overnight Oats w/ Almond Milk | Oats, almond milk, coconut yogurt, blueberries, chia seeds |
 | Chia Puddings | Various flavors, grab-and-go |
 | Fruit Parfaits | |
 | Acai Bowl with Protein & Granola | Acai, berries, banana, A2 whey protein, house granola |
@@ -334,9 +390,12 @@ All 100% organic, stocks simmered 24-36 hours. 30-day shelf life refrigerated.
 | Item | Price | Ingredients |
 |---|---|---|
 | Chicken Bone Broth (32 oz) | ~$24 | Chicken bones, onion, carrot, celery, parsley, garlic, sea salt |
+| Roasted Chicken Bone Broth (32 oz) | ~$24 | Roasted chicken bones, herbs, vegetables — deeper, richer flavor |
+| Chicken Lemongrass Bone Broth (32 oz) | ~$24 | Immune-boosting, lemongrass-infused |
 | Beef Bone Broth | ~$24 | Beef bones, carrot, onion, celery, ACV, parsley, garlic |
-| Chicken Noodle Soup | varies | Rich stock, tender chicken, vegetables, pasta, parsley |
+| Chicken Noodle Soup | varies | Rich stock, tender chicken, vegetables, pasta, parsley. 30-day refrigerated shelf life |
 | Chicken Vegetable Soup | varies | Chicken, stock, onions, carrots, celery, cabbage, zucchini, broccoli |
+| Butternut Squash Soup | ~$15.50 | Loaded with celery, onions, carrots, Yukon potatoes |
 | Chicken Matzo Ball Soup | varies | |
 
 ### 5.8 Cold-Pressed Juices & Wellness Shots
