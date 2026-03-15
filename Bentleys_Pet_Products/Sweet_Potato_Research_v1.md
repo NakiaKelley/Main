@@ -557,7 +557,104 @@ Note: A commissary kitchen may already have ovens, mixers, freezers, and prep eq
 
 ## 13. Competitor Profile: Jessie's Bites
 
-*[Section to be completed — research in progress]*
+### Company Overview
+**Jessie's Bites** is a Houston, Texas-based dog food and treats company founded by **Guy and Martha Benham**, named after their daughter Jessie, who has intellectual and developmental disabilities (IDD). The company started as a pandemic project in May 2020 — making treats for their Goldendoodle, Buddy — and evolved into a real business.
+
+**Mission:** "Helping you, help your Pup, live its best life." Their entire production team consists of individuals with IDD. Only 17% of Texans with developmental or intellectual disabilities are employed, and the Benhams built Jessie's Bites to change that.
+
+**Locations:**
+- 743 W. 18th Street, Houston, TX 77008 (The Heights) — renovated 1934 bungalow with commercial kitchen + retail store
+- 6401 Woodway Dr. #163, Houston, TX 77057 — second location
+
+**Website:** jessiesbites.com | **Instagram:** @jessiesbitesgrub
+
+### Product Line
+
+**Fresh Dog Food (frozen, ~2.5 cups per packet):**
+
+| Product | Key Ingredients |
+|---------|----------------|
+| Coconut Chicken | Pastured chicken, coconut oil, sustainable vegetables |
+| Beef & Roasted Zucchini | Wagyu beef (Texas-sourced), oatmeal, flaxseed, green beans, parsley |
+| Fruity Pork Hot Pot | Pork, fruit, vegetables |
+| Turkey & Carrot | Turkey, brown rice, carrots, broccoli, cauliflower, yellow squash, zucchini, flaxseed, coconut oil |
+| Pup Loaf | Ground beef, oatmeal, flaxseed, green beans |
+
+**Fresh Baked Dog Treats:**
+
+| Product | Notes |
+|---------|-------|
+| **Grain-Free Sweet Potato** | Directly relevant to Bentley's — validates sweet potato at premium price |
+| Peanut Butter & Cheese | Classic combo |
+| Gluten-Free Peanut Butter & Pumpkin | GF positioning |
+| Gluten-Free Cheese Pops | GF positioning |
+
+**Also carries third-party brands in retail:** Fromm, Open Farm, Stella & Chewy's, Red Barn, Steve's Raw, Grandma Lucy's, Rawz, SquarePet, Zignature
+
+### Pricing
+
+**Subscription Plans (Monthly, with delivery):**
+
+| Dog Size | Weight Range | Daily Cost | Monthly Cost |
+|----------|-------------|-----------|-------------|
+| Tiny | Under 10 lbs | $2.66 | $86.66 |
+| Small | 10-25 lbs | $4.70 | $153.04 |
+| Medium | 25-55 lbs | $7.03 | $228.90 |
+| Large | 55-85 lbs | $9.07 | $295.28 |
+| X-Large | 85+ lbs | $13.44 | $437.53 |
+
+**Pickup plans** (no delivery fee): ~$10-11/month less than delivery pricing.
+
+**Treats Subscription:** $97.37/month — includes 8 large bags or 2.25 lbs of treats per month.
+
+This is premium pricing comparable to The Farmer's Dog and other fresh dog food subscription services.
+
+### Sales Channels
+- Own website (Square Online) — subscriptions and one-time purchases
+- Local hand-delivery within 20-mile radius of Houston (1-2 weeks of food at a time)
+- Two retail storefronts
+- Farmers markets: Slowpokes (Spring Branch), St. Martin's Episcopal (Saturdays), Feel Good Long Point Monthly
+- Third-party retail: Central City Co-Op
+- Saturday Vet Services at their Pet Stop location
+- **NOT on:** Amazon, Etsy, Chewy, or any national e-commerce platform — deliberately hyper-local
+
+### Packaging & Branding
+- Packaging designed by PXLD Creative (Houston design firm)
+- Metalized packaging keeps food frozen without ice, thaws in under 3 hours
+- Label features checkboxes for food varieties — intentionally designed to create tasks for IDD team members
+- Compact, minimal fridge/freezer footprint
+- Brand storytelling woven into label design
+- The renovated 1934 Heights bungalow reinforces local/artisanal identity
+
+### Key Differentiators
+1. **Social mission / inclusive employment** — most powerful differentiator; entire production team is individuals with IDD
+2. **Human-grade, nutritionist-developed recipes** — formulated by Nancy Addison (CHC, AADP)
+3. **Premium ingredients** — Wagyu beef from Texas, pastured chicken
+4. **Hyper-local model** — everything sourced, made, and sold locally in Houston
+5. **Fresh/frozen format** — positioned as healthier alternative to kibble
+6. **Versatile use** — products can be fed as meals, mixed with kibble, used as toppers, or given as treats
+7. **Rescue Giveback Program** ("Pay It Forward") — charitable component
+
+### Reviews & Press
+- Featured on **FOX 26 Houston** Morning Show (August 2024)
+- **Houston Dog Mom** blog gave favorable write-up
+- **The HUB Houston** featured them as employment partner success story
+- Online review footprint is small — relies on community word-of-mouth, local press, and social mission
+
+### Sweet Potato Usage
+**Yes — directly relevant.** One of their four treat products is specifically **"Grain-Free Sweet Potato"** treats. However, sweet potato is used in only one of four treat SKUs and does not appear in any of their five fresh food recipes.
+
+### Competitive Implications for Bentley's
+
+| Factor | Implication |
+|--------|------------|
+| Sweet potato is 1 of 4 treats, not their core focus | Bentley's can own "sweet potato specialist" positioning more clearly |
+| Premium pricing validated | $97.37/month treats subscription confirms consumers pay premium for local, human-grade |
+| Hyper-local (Houston only) | If Bentley's is outside Houston, no direct competition. Open space nationally on Amazon/Etsy/Chewy |
+| Social mission is hard to replicate | Bentley's needs its own authentic brand story |
+| Started in commissary kitchen | Validates the commissary kitchen → own space growth path |
+| No national e-commerce presence | White space for sweet potato treats online from a small brand |
+| Recipes by certified nutritionist | Consider partnering with a pet nutritionist for credibility |
 
 ---
 
