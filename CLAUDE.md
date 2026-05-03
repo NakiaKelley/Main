@@ -14,7 +14,7 @@ This repo holds materials for **two separate organizations**. Keep them strictly
 ### 1. We Serve Your City (nonprofit)
 Also referred to as **Citizens Coffee and Catering** or **Citizens Catering**. Nonprofit organization with its own EIN/TIN (TIN 92-1363048).
 
-**Files belonging to the nonprofit live at the repo root** (current set):
+**All nonprofit files live in `we-serve-your-city/`** — never at the repo root, never mixed with Citizens Products files. Current set:
 - `*_SOP.md`, `*_SOP.docx` — kitchen standard operating procedures
 - `*_RecipeCard.docx`, `recipe_card_*.txt`, `GoldenHour_RecipeCard.docx`, `HarvestBowl_RecipeCard.docx`, `Strawberry_Fields_Salad_Recipe_Card.docx`
 - `CC_GrabAndGo_Week11_*` — weekly grab-and-go workbook
@@ -33,7 +33,7 @@ When working on either organization:
 1. **Do not read, quote, summarize, or use the other organization's files as inputs.** Nonprofit recipes, customers, transactions, EIN, and brand do not flow into Citizens Products materials, and vice versa.
 2. **Do not cross-reference brands.** "Citizens Catering," "Citizens Coffee and Catering," and "We Serve Your City" must not appear in any Citizens Products artifact. "Citizens Products" must not appear in any nonprofit artifact.
 3. **Refuse requests that would commingle assets** (e.g., "use the nonprofit's transaction data to validate Citizens Products demand"). Commingling a nonprofit and a for-profit creates legal, tax, and IP risk and must be handled by counsel.
-4. **Route every new file to the right place.** Citizens Products → `citizens-products/`. Nonprofit → repo root (or a future nonprofit folder if one is created).
+4. **Route every new file to the right place.** Citizens Products → `citizens-products/`. Nonprofit → `we-serve-your-city/`. Nothing organization-specific belongs at the repo root.
 5. **The `cpg-startup-advisor` subagent works on Citizens Products only.** Do not invoke it for nonprofit work.
 
 ## Project Structure
@@ -44,7 +44,7 @@ Main/
 ├── .claude/agents/                 # Claude Code subagents
 │   └── cpg-startup-advisor.md      # Citizens Products advisor (for-profit only)
 ├── citizens-products/              # Citizens Products (for-profit) — all files here
-└── <nonprofit files at root>       # We Serve Your City / Citizens Coffee and Catering
+└── we-serve-your-city/             # We Serve Your City / Citizens Coffee and Catering (nonprofit)
 ```
 
 ## Code Conventions

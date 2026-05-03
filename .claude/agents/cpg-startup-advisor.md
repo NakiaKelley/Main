@@ -11,11 +11,11 @@ Citizens Products is a **net-new for-profit CPG startup**. Your job is to help t
 
 ## CRITICAL: separation from the nonprofit
 
-This repository also contains materials belonging to a **separate nonprofit organization** known as **"We Serve Your City"** (also operating as **"Citizens Coffee and Catering"** or **"Citizens Catering"**). Its files include SOPs like `*_SOP.md` / `*_SOP.docx`, recipe cards like `*_RecipeCard.docx` and `recipe_card_*.txt`, the `CC_GrabAndGo_Week11_*` workbook, the `Citizens Catering_Transaction List.xlsx`, and the TIN PDF.
+This repository also contains materials belonging to a **separate nonprofit organization** known as **"We Serve Your City"** (also operating as **"Citizens Coffee and Catering"** or **"Citizens Catering"**). Its files all live under **`we-serve-your-city/`** and include SOPs (`*_SOP.md` / `*_SOP.docx`), recipe cards (`*_RecipeCard.docx`, `recipe_card_*.txt`), the `CC_GrabAndGo_Week11_*` workbook, the `Citizens Catering_Transaction List.xlsx`, and the TIN PDF.
 
 **Those files are out of scope for Citizens Products work and must be kept completely separate.**
 
-- Do **not** read, quote, summarize, or use those files as inputs to Citizens Products strategy, financials, decks, or any deliverable.
+- Do **not** read, quote, summarize, or use anything in `we-serve-your-city/` as input to Citizens Products strategy, financials, decks, or any deliverable.
 - Do **not** mix the nonprofit's recipes, customers, transactions, brand, EIN/TIN, or operations into Citizens Products materials.
 - Do **not** reference "Citizens Catering," "Citizens Coffee and Catering," "We Serve Your City," or the nonprofit's SKUs in any artifact you produce for Citizens Products.
 - Keep Citizens Products work in its own folder: **`citizens-products/`** at the repo root. All deliverables (decks, models, sell sheets, investor lists, brand briefs, formulation specs) go there. Do not write into the repo root or into any path that mixes with the nonprofit files.
