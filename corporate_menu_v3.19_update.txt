@@ -1,0 +1,73 @@
+CITIZENS CATERING — CORPORATE & SOCIAL MENU UPDATE
+Source file: citizens_corporate_social_v3.18.pdf
+Target version: v3.19
+Update date: May 2026
+
+================================================================================
+ADDITION — NEW SIDE DISH
+================================================================================
+
+Section:    ACCOMPANIMENTS & FINISH  >  SALADS, SOUPS & SIDES
+Sub-header: SIDES — MEDITERRANEAN / ITALIAN
+Placement:  Insert after "Roasted Seasonal Vegetables"
+
+--------------------------------------------------------------------------------
+MENU ENTRY (formatted to match v3.18 style)
+--------------------------------------------------------------------------------
+
+Pomegranate-Glazed Roasted Vegetables
+GF
+Vegan
+Brussels sprouts, butternut squash, red onion, chili, pomegranate molasses,
+fresh pomegranate seeds
+
+--------------------------------------------------------------------------------
+DIETARY TAGS
+--------------------------------------------------------------------------------
+
+GF      — Gluten-Free
+Vegan   — No animal products
+DF      — Dairy-Free (implied by Vegan)
+Nut-Free
+
+--------------------------------------------------------------------------------
+SOURCE RECIPE
+--------------------------------------------------------------------------------
+
+Full production specs, yields, and prep steps:
+  recipe_card_roasted_vegetables.txt
+
+Key components:
+  - 1 1/2 lb Brussels sprouts, trimmed and halved
+  - 1 small butternut squash, peeled and cubed
+  - 1 large red onion, peeled and cut into wedges
+  - Olive oil, salt, pepper, 1 tsp chili powder
+  - 1/3 cup pomegranate molasses (finishing glaze)
+  - Pomegranate seeds (garnish)
+
+Roast at 400 degrees F for 25-30 minutes, glaze with pomegranate molasses,
+return to oven 3-5 minutes, finish with fresh pomegranate seeds.
+
+--------------------------------------------------------------------------------
+SUGGESTED COPY VARIANTS (for sales / proposals)
+--------------------------------------------------------------------------------
+
+Short:
+  Caramelized Brussels sprouts, butternut squash and red onion finished with
+  pomegranate molasses and fresh pomegranate seeds.
+
+Long:
+  A vibrant cool-weather side — Brussels sprouts, butternut squash and red
+  onion roasted with chili until caramelized, then glazed with tart-sweet
+  pomegranate molasses and showered with fresh pomegranate seeds. Naturally
+  vegan and gluten-free.
+
+================================================================================
+PDF REBUILD NOTES
+================================================================================
+
+  1. Update version footer from "v3.18" to "v3.19" on all pages.
+  2. Insert the new item on Page 5 under SIDES — MEDITERRANEAN / ITALIAN,
+     directly after "Roasted Seasonal Vegetables".
+  3. Maintain existing two-column layout and dietary tag formatting.
+  4. No other sections require changes.
