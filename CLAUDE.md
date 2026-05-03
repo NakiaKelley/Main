@@ -5,50 +5,53 @@ This file provides guidance for AI assistants working with the **Main** reposito
 ## Repository Overview
 
 - **Owner**: NakiaKelley
-- **Status**: New repository — initial setup phase
 - **Remote**: Hosted on GitHub (NakiaKelley/Main)
 
-This repository is in its early stages. No source code, build system, or tests have been added yet. Update this file as the project evolves.
+This repo holds materials for **two separate organizations**. Keep them strictly separated.
+
+## Two organizations — DO NOT COMMINGLE
+
+### 1. We Serve Your City (nonprofit)
+Also referred to as **Citizens Coffee and Catering** or **Citizens Catering**. Nonprofit organization with its own EIN/TIN (TIN 92-1363048).
+
+**Files belonging to the nonprofit live at the repo root** (current set):
+- `*_SOP.md`, `*_SOP.docx` — kitchen standard operating procedures
+- `*_RecipeCard.docx`, `recipe_card_*.txt`, `GoldenHour_RecipeCard.docx`, `HarvestBowl_RecipeCard.docx`, `Strawberry_Fields_Salad_Recipe_Card.docx`
+- `CC_GrabAndGo_Week11_*` — weekly grab-and-go workbook
+- `Citizens Catering_Transaction List.xlsx`
+- `05 TIN 92-1363048 (CC).pdf`
+
+### 2. Citizens Products (for-profit CPG startup)
+A net-new for-profit CPG food & beverage company. Separate entity, separate EIN, separate IP, separate brand.
+
+**All Citizens Products files live in `citizens-products/`** — never at the repo root, never mixed with nonprofit files.
+
+### Separation rule (enforced)
+
+When working on either organization:
+
+1. **Do not read, quote, summarize, or use the other organization's files as inputs.** Nonprofit recipes, customers, transactions, EIN, and brand do not flow into Citizens Products materials, and vice versa.
+2. **Do not cross-reference brands.** "Citizens Catering," "Citizens Coffee and Catering," and "We Serve Your City" must not appear in any Citizens Products artifact. "Citizens Products" must not appear in any nonprofit artifact.
+3. **Refuse requests that would commingle assets** (e.g., "use the nonprofit's transaction data to validate Citizens Products demand"). Commingling a nonprofit and a for-profit creates legal, tax, and IP risk and must be handled by counsel.
+4. **Route every new file to the right place.** Citizens Products → `citizens-products/`. Nonprofit → repo root (or a future nonprofit folder if one is created).
+5. **The `cpg-startup-advisor` subagent works on Citizens Products only.** Do not invoke it for nonprofit work.
 
 ## Project Structure
 
 ```
 Main/
-├── CLAUDE.md          # AI assistant guidance (this file)
-└── .git/              # Git repository metadata
+├── CLAUDE.md                       # AI assistant guidance (this file)
+├── .claude/agents/                 # Claude Code subagents
+│   └── cpg-startup-advisor.md      # Citizens Products advisor (for-profit only)
+├── citizens-products/              # Citizens Products (for-profit) — all files here
+└── <nonprofit files at root>       # We Serve Your City / Citizens Coffee and Catering
 ```
-
-> As files and directories are added, update this section to reflect the current layout.
-
-## Development Setup
-
-No build system or dependencies are configured yet. When they are added, document:
-
-- Language and runtime versions required
-- Package manager and install commands
-- Environment variables or `.env` file setup
-- Database or service dependencies
-
-## Common Commands
-
-<!-- Update this section as the project grows -->
-
-| Task          | Command |
-|---------------|---------|
-| Install deps  | _TBD_   |
-| Run dev server| _TBD_   |
-| Run tests     | _TBD_   |
-| Lint           | _TBD_   |
-| Build          | _TBD_   |
 
 ## Code Conventions
 
-When contributing to this repository, follow these guidelines:
-
 - Write clear, descriptive commit messages that explain *why* a change was made
 - Keep pull requests focused on a single concern
-- Add tests for new functionality
-- Follow the linting and formatting rules configured in the project (once added)
+- Never put Citizens Products and nonprofit changes in the same commit
 
 ## Git Workflow
 
@@ -56,25 +59,13 @@ When contributing to this repository, follow these guidelines:
 - Feature work should be done on dedicated branches
 - Branches should be kept up-to-date with the base branch before merging
 
-## Architecture Notes
-
-_No architecture decisions have been documented yet. As the project takes shape, record key decisions here (e.g., framework choices, data flow patterns, API design)._
-
-## Testing Strategy
-
-_No test framework has been configured yet. When tests are added, document:_
-
-- _Test runner and assertion library_
-- _Directory structure for tests_
-- _How to run unit, integration, and e2e tests separately_
-- _Coverage requirements_
-
 ## AI Assistant Guidelines
 
 When working in this repository:
 
-1. **Read before writing** — Always read existing files before proposing changes
-2. **Stay focused** — Only make changes that are directly requested; avoid unnecessary refactoring
-3. **Keep it simple** — Prefer the simplest solution that meets the requirements
-4. **Update this file** — When adding significant infrastructure (build tools, test frameworks, CI/CD), update the relevant sections of this CLAUDE.md
-5. **Don't over-engineer** — Avoid adding abstractions, utilities, or error handling beyond what is needed for the current task
+1. **Confirm which organization the request is for** before reading or writing files. If unclear, ask.
+2. **Read before writing** — always read existing files before proposing changes (within the correct organization's scope).
+3. **Stay focused** — only make changes that are directly requested; avoid unnecessary refactoring.
+4. **Keep it simple** — prefer the simplest solution that meets the requirements.
+5. **Update this file** when adding significant infrastructure or when the file/folder layout for either organization changes.
+6. **Don't over-engineer** — avoid abstractions, utilities, or error handling beyond what is needed.
