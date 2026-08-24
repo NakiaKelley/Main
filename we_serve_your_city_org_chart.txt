@@ -1,0 +1,99 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                       WE SERVE YOUR CITY                                     ║
+║                     ORGANIZATIONAL CHART                                     ║
+║                                                                              ║
+║  Legal name:  We Serve Your City                                             ║
+║  Doing business as:  Citizens Coffee & Catering                              ║
+║  Location:  Houston, TX                                                      ║
+║  Contact:  (855) 227-3783  |  nakia@weserveyourcity.org                      ║
+║  Version:  1.0                                                               ║
+║  Last updated:  August 2026                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ HOW TO READ THIS CHART                                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│   • Solid indentation (│) = direct reporting line                           │
+│   • [TBD] marks roles that need a name filled in                            │
+│   • [OPEN] marks currently vacant positions                                 │
+│   • Update the "Last updated" date whenever this file changes               │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+BOARD OF DIRECTORS
+│
+├── Board Chair ............................................. [TBD]
+├── Vice Chair .............................................. [TBD]
+├── Treasurer ............................................... [TBD]
+├── Secretary ............................................... [TBD]
+└── Directors-at-Large ...................................... [TBD]
+    │
+    └──> EXECUTIVE DIRECTOR / FOUNDER ...................... Nakia Kelley
+         nakia@weserveyourcity.org
+         │
+         ├── PROGRAMS
+         │   │
+         │   ├── Citizens Coffee & Catering (Program Lead) .. [TBD]
+         │   │   │
+         │   │   ├── Executive Chef / Culinary Lead ......... [TBD]
+         │   │   │   ├── Sous Chef ......................... [TBD]
+         │   │   │   ├── Line Cooks ........................ [TBD]
+         │   │   │   └── Prep Team ......................... [TBD]
+         │   │   │
+         │   │   ├── Catering Coordinator .................. [TBD]
+         │   │   │   ├── Event Captains ................... [TBD]
+         │   │   │   └── Service Staff .................... [TBD]
+         │   │   │
+         │   │   ├── Grab & Go Program Manager ............. [TBD]
+         │   │   │   ├── Production Team .................. [TBD]
+         │   │   │   └── Delivery / Logistics .............. [TBD]
+         │   │   │
+         │   │   └── Coffee Program Lead ................... [TBD]
+         │   │       └── Baristas .......................... [TBD]
+         │   │
+         │   └── Community Programs ......................... [OPEN]
+         │       ├── Workforce Development ................. [TBD]
+         │       ├── Food Access / Food Rescue ............. [TBD]
+         │       └── Community Partnerships ................ [TBD]
+         │
+         ├── OPERATIONS
+         │   │
+         │   ├── Operations Manager ......................... [TBD]
+         │   ├── Facilities & Kitchen Maintenance ........... [TBD]
+         │   ├── Inventory & Purchasing ..................... [TBD]
+         │   └── Food Safety & Compliance ................... [TBD]
+         │
+         ├── FINANCE & ADMINISTRATION
+         │   │
+         │   ├── Finance Director / Controller .............. [TBD]
+         │   ├── Bookkeeping ................................ [TBD]
+         │   ├── Payroll & HR ............................... [TBD]
+         │   └── IT & Systems ............................... [TBD]
+         │
+         ├── DEVELOPMENT & FUNDRAISING
+         │   │
+         │   ├── Development Director ....................... [TBD]
+         │   ├── Grants Manager ............................. [TBD]
+         │   ├── Individual Giving .......................... [TBD]
+         │   └── Corporate & Foundation Partnerships ........ [TBD]
+         │
+         └── MARKETING & COMMUNICATIONS
+             │
+             ├── Marketing Lead ............................. [TBD]
+             ├── Social Media & Content ..................... [TBD]
+             ├── Sales / Corporate Accounts ................. [TBD]
+             └── Community Outreach ......................... [TBD]
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ADVISORS & CONTRACTED SUPPORT                                                │
+├──────────────────────────────────────────────────────────────────────────────┤
+│   • Legal Counsel ........................................ [TBD]            │
+│   • Accountant / CPA ..................................... [TBD]            │
+│   • Insurance / Risk ..................................... [TBD]            │
+│   • Advisory Board Members ............................... [TBD]            │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ REVISION HISTORY                                                             │
+├──────────────────────────────────────────────────────────────────────────────┤
+│   v1.0  |  August 2026  |  Initial scaffold created — placeholders only     │
+└──────────────────────────────────────────────────────────────────────────────┘
